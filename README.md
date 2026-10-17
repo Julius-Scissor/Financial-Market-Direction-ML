@@ -1,49 +1,74 @@
 # Neural Network-Based Market Direction Classification
 
-A comparative study of classical machine learning and neural networks for predicting daily NIFTY 50 market direction.
+**A comparative study of classical machine learning and neural networks for daily NIFTY 50 market-direction prediction.**
 
 ## Overview
 
-This project investigates whether historical price-derived features can help classify the next-session direction of the NIFTY 50 index. It compares conventional machine learning models with neural network architectures using chronological evaluation.
+Can historical price-derived features help predict whether the NIFTY 50 index will close higher on the next trading session?
+
+This project investigates that question by comparing a simple majority-class baseline, Logistic Regression, a feed-forward neural network (FNN), and a Long Short-Term Memory network (LSTM). Models are evaluated using chronological data splits to respect the time-series structure of financial data.
+
+## Research Setup
+
+- **Market:** NIFTY 50 index
+- **Prediction task:** Binary next-session direction classification
+- **Target:** 1 if the next close exceeds the current close, otherwise 0
+- **Features:** Lagged returns, rolling volatility, momentum, and moving-average ratios
+- **Evaluation:** Chronological train/validation/test split, walk-forward evaluation, and an initial trading simulation
 
 ## Models
 
-- Majority-class baseline
-- Logistic Regression
-- Feed-forward Neural Network (FNN)
-- Long Short-Term Memory Network (LSTM)
+1. Majority-class baseline
+2. Logistic Regression
+3. Feed-forward Neural Network (FNN)
+4. Long Short-Term Memory Network (LSTM)
 
-## Methodology
+## Preliminary Test Results
 
-- **Dataset:** Historical daily NIFTY 50 prices
-- **Features:** Lagged returns, rolling volatility, momentum, and moving-average ratios
-- **Target:** Whether the next closing price is higher than the current closing price
-- **Evaluation:** Chronological train/validation/test split, walk-forward evaluation, and backtesting
-
-## Preliminary Results
-
-| Model | Test Accuracy |
+| Model | Accuracy |
 |---|---:|
-| Majority baseline | 50.49% |
+| Majority-class baseline | 50.49% |
 | Logistic Regression | 46.58% |
 | FNN | 49.84% |
 | LSTM | 50.65% |
 
-The LSTM achieved 50.65% test accuracy, only slightly above the majority-class baseline. The results suggest that predicting daily market direction from these features is challenging.
+The LSTM achieved 50.65% test accuracy, a small improvement over the 50.49% majority-class baseline. These results indicate that daily market-direction prediction remains challenging with the selected features and models.
 
-The initial backtest produced a total return of 1.06% for the LSTM and 0.47% for buy-and-hold under the simulation assumptions used. These preliminary results do not establish a reliable trading edge.
+### Initial Backtesting Results
+
+The original simulation reported a total return of **+1.06% for the LSTM** and **+0.47% for buy-and-hold** under its specified assumptions.
+
+These figures are preliminary, not evidence of a reliable trading edge. Execution timing and transaction-cost treatment require further validation before drawing conclusions about practical profitability.
+
+## Methodology
+
+The workflow includes:
+
+1. Historical price data preparation and exploratory analysis.
+2. Feature engineering using lagged returns, volatility, momentum, and moving-average ratios.
+3. Chronological training, validation, and test splits.
+4. Model training and comparison against a simple baseline.
+5. Walk-forward evaluation and an initial backtesting analysis.
 
 ## Repository Structure
 
-- `notebooks/`: Analysis and model experiments
-- `reports/`: Written project reports
-- `figures/`: Visualizations (to be added)
-- `results/`: Model metrics and evaluation outputs (to be added)
-- `src/`: Reusable project code (planned)
+- `notebooks/`: Main analysis and model experiments.
+- `reports/`: Written project reports.
+- `results/`: Results documentation and, as the project develops, machine-readable evaluation outputs.
 
-## Limitations
+## Reproducibility
 
-The initial backtest requires further checks of execution timing and transaction-cost assumptions. Additional evaluation using balanced metrics, repeated walk-forward testing, and more realistic trading assumptions is needed.
+Open the notebook in Google Colab or Jupyter Notebook. Install the dependencies listed in `requirements.txt`, then follow the notebook cells in order.
+
+The exact data source, package versions, and any required data-download steps should be documented alongside the notebook to support reproducibility.
+
+## Limitations and Future Work
+
+- Evaluate balanced accuracy, macro F1, and Matthews correlation coefficient.
+- Verify that feature construction and validation avoid information leakage.
+- Use a feasible trade-execution convention after a prediction is generated.
+- Apply transaction costs consistently to strategy and benchmark returns.
+- Expand walk-forward testing to assess the stability of any predictive signal.
 
 ## Author
 
