@@ -1,0 +1,2457 @@
+signal_date,model,predicted_direction,position
+2024-04-05,Majority,1,1
+2024-04-08,Majority,1,1
+2024-04-09,Majority,1,1
+2024-04-10,Majority,1,1
+2024-04-12,Majority,1,1
+2024-04-15,Majority,1,1
+2024-04-16,Majority,1,1
+2024-04-18,Majority,1,1
+2024-04-19,Majority,1,1
+2024-04-22,Majority,1,1
+2024-04-23,Majority,1,1
+2024-04-24,Majority,1,1
+2024-04-25,Majority,1,1
+2024-04-26,Majority,1,1
+2024-04-29,Majority,1,1
+2024-04-30,Majority,1,1
+2024-05-02,Majority,1,1
+2024-05-03,Majority,1,1
+2024-05-06,Majority,1,1
+2024-05-07,Majority,1,1
+2024-05-08,Majority,1,1
+2024-05-09,Majority,1,1
+2024-05-10,Majority,1,1
+2024-05-13,Majority,1,1
+2024-05-14,Majority,1,1
+2024-05-15,Majority,1,1
+2024-05-16,Majority,1,1
+2024-05-17,Majority,1,1
+2024-05-21,Majority,1,1
+2024-05-22,Majority,1,1
+2024-05-23,Majority,1,1
+2024-05-24,Majority,1,1
+2024-05-27,Majority,1,1
+2024-05-28,Majority,1,1
+2024-05-29,Majority,1,1
+2024-05-30,Majority,1,1
+2024-05-31,Majority,1,1
+2024-06-03,Majority,1,1
+2024-06-04,Majority,1,1
+2024-06-05,Majority,1,1
+2024-06-06,Majority,1,1
+2024-06-07,Majority,1,1
+2024-06-10,Majority,1,1
+2024-06-11,Majority,1,1
+2024-06-12,Majority,1,1
+2024-06-13,Majority,1,1
+2024-06-14,Majority,1,1
+2024-06-18,Majority,1,1
+2024-06-19,Majority,1,1
+2024-06-20,Majority,1,1
+2024-06-21,Majority,1,1
+2024-06-24,Majority,1,1
+2024-06-25,Majority,1,1
+2024-06-26,Majority,1,1
+2024-06-27,Majority,1,1
+2024-06-28,Majority,1,1
+2024-07-01,Majority,1,1
+2024-07-02,Majority,1,1
+2024-07-03,Majority,1,1
+2024-07-04,Majority,1,1
+2024-07-05,Majority,1,1
+2024-07-08,Majority,1,1
+2024-07-09,Majority,1,1
+2024-07-10,Majority,1,1
+2024-07-11,Majority,1,1
+2024-07-12,Majority,1,1
+2024-07-15,Majority,1,1
+2024-07-16,Majority,1,1
+2024-07-18,Majority,1,1
+2024-07-19,Majority,1,1
+2024-07-22,Majority,1,1
+2024-07-23,Majority,1,1
+2024-07-24,Majority,1,1
+2024-07-25,Majority,1,1
+2024-07-26,Majority,1,1
+2024-07-29,Majority,1,1
+2024-07-30,Majority,1,1
+2024-07-31,Majority,1,1
+2024-08-01,Majority,1,1
+2024-08-02,Majority,1,1
+2024-08-05,Majority,1,1
+2024-08-06,Majority,1,1
+2024-08-07,Majority,1,1
+2024-08-08,Majority,1,1
+2024-08-09,Majority,1,1
+2024-08-12,Majority,1,1
+2024-08-13,Majority,1,1
+2024-08-14,Majority,1,1
+2024-08-16,Majority,1,1
+2024-08-19,Majority,1,1
+2024-08-20,Majority,1,1
+2024-08-21,Majority,1,1
+2024-08-22,Majority,1,1
+2024-08-23,Majority,1,1
+2024-08-26,Majority,1,1
+2024-08-27,Majority,1,1
+2024-08-28,Majority,1,1
+2024-08-29,Majority,1,1
+2024-08-30,Majority,1,1
+2024-09-02,Majority,1,1
+2024-09-03,Majority,1,1
+2024-09-04,Majority,1,1
+2024-09-05,Majority,1,1
+2024-09-06,Majority,1,1
+2024-09-09,Majority,1,1
+2024-09-10,Majority,1,1
+2024-09-11,Majority,1,1
+2024-09-12,Majority,1,1
+2024-09-13,Majority,1,1
+2024-09-16,Majority,1,1
+2024-09-17,Majority,1,1
+2024-09-18,Majority,1,1
+2024-09-19,Majority,1,1
+2024-09-20,Majority,1,1
+2024-09-23,Majority,1,1
+2024-09-24,Majority,1,1
+2024-09-25,Majority,1,1
+2024-09-26,Majority,1,1
+2024-09-27,Majority,1,1
+2024-09-30,Majority,1,1
+2024-10-01,Majority,1,1
+2024-10-03,Majority,1,1
+2024-10-04,Majority,1,1
+2024-10-07,Majority,1,1
+2024-10-08,Majority,1,1
+2024-10-09,Majority,1,1
+2024-10-10,Majority,1,1
+2024-10-11,Majority,1,1
+2024-10-14,Majority,1,1
+2024-10-15,Majority,1,1
+2024-10-16,Majority,1,1
+2024-10-17,Majority,1,1
+2024-10-18,Majority,1,1
+2024-10-21,Majority,1,1
+2024-10-22,Majority,1,1
+2024-10-23,Majority,1,1
+2024-10-24,Majority,1,1
+2024-10-25,Majority,1,1
+2024-10-28,Majority,1,1
+2024-10-29,Majority,1,1
+2024-10-30,Majority,1,1
+2024-10-31,Majority,1,1
+2024-11-01,Majority,1,1
+2024-11-04,Majority,1,1
+2024-11-05,Majority,1,1
+2024-11-06,Majority,1,1
+2024-11-07,Majority,1,1
+2024-11-08,Majority,1,1
+2024-11-11,Majority,1,1
+2024-11-12,Majority,1,1
+2024-11-13,Majority,1,1
+2024-11-14,Majority,1,1
+2024-11-18,Majority,1,1
+2024-11-19,Majority,1,1
+2024-11-21,Majority,1,1
+2024-11-22,Majority,1,1
+2024-11-25,Majority,1,1
+2024-11-26,Majority,1,1
+2024-11-27,Majority,1,1
+2024-11-28,Majority,1,1
+2024-11-29,Majority,1,1
+2024-12-02,Majority,1,1
+2024-12-03,Majority,1,1
+2024-12-04,Majority,1,1
+2024-12-05,Majority,1,1
+2024-12-06,Majority,1,1
+2024-12-09,Majority,1,1
+2024-12-10,Majority,1,1
+2024-12-11,Majority,1,1
+2024-12-12,Majority,1,1
+2024-12-13,Majority,1,1
+2024-12-16,Majority,1,1
+2024-12-17,Majority,1,1
+2024-12-18,Majority,1,1
+2024-12-19,Majority,1,1
+2024-12-20,Majority,1,1
+2024-12-23,Majority,1,1
+2024-12-24,Majority,1,1
+2024-12-26,Majority,1,1
+2024-12-27,Majority,1,1
+2024-12-30,Majority,1,1
+2024-12-31,Majority,1,1
+2025-01-01,Majority,1,1
+2025-01-02,Majority,1,1
+2025-01-03,Majority,1,1
+2025-01-06,Majority,1,1
+2025-01-07,Majority,1,1
+2025-01-08,Majority,1,1
+2025-01-09,Majority,1,1
+2025-01-10,Majority,1,1
+2025-01-13,Majority,1,1
+2025-01-14,Majority,1,1
+2025-01-15,Majority,1,1
+2025-01-16,Majority,1,1
+2025-01-17,Majority,1,1
+2025-01-20,Majority,1,1
+2025-01-21,Majority,1,1
+2025-01-22,Majority,1,1
+2025-01-23,Majority,1,1
+2025-01-24,Majority,1,1
+2025-01-27,Majority,1,1
+2025-01-28,Majority,1,1
+2025-01-29,Majority,1,1
+2025-01-30,Majority,1,1
+2025-01-31,Majority,1,1
+2025-02-01,Majority,1,1
+2025-02-03,Majority,1,1
+2025-02-04,Majority,1,1
+2025-02-05,Majority,1,1
+2025-02-06,Majority,1,1
+2025-02-07,Majority,1,1
+2025-02-10,Majority,1,1
+2025-02-11,Majority,1,1
+2025-02-12,Majority,1,1
+2025-02-13,Majority,1,1
+2025-02-14,Majority,1,1
+2025-02-17,Majority,1,1
+2025-02-18,Majority,1,1
+2025-02-19,Majority,1,1
+2025-02-20,Majority,1,1
+2025-02-21,Majority,1,1
+2025-02-24,Majority,1,1
+2025-02-25,Majority,1,1
+2025-02-27,Majority,1,1
+2025-02-28,Majority,1,1
+2025-03-03,Majority,1,1
+2025-03-04,Majority,1,1
+2025-03-05,Majority,1,1
+2025-03-06,Majority,1,1
+2025-03-07,Majority,1,1
+2025-03-10,Majority,1,1
+2025-03-11,Majority,1,1
+2025-03-12,Majority,1,1
+2025-03-13,Majority,1,1
+2025-03-17,Majority,1,1
+2025-03-18,Majority,1,1
+2025-03-19,Majority,1,1
+2025-03-20,Majority,1,1
+2025-03-21,Majority,1,1
+2025-03-24,Majority,1,1
+2025-03-25,Majority,1,1
+2025-03-26,Majority,1,1
+2025-03-27,Majority,1,1
+2025-03-28,Majority,1,1
+2025-04-01,Majority,1,1
+2025-04-02,Majority,1,1
+2025-04-03,Majority,1,1
+2025-04-04,Majority,1,1
+2025-04-07,Majority,1,1
+2025-04-08,Majority,1,1
+2025-04-09,Majority,1,1
+2025-04-11,Majority,1,1
+2025-04-15,Majority,1,1
+2025-04-16,Majority,1,1
+2025-04-17,Majority,1,1
+2025-04-21,Majority,1,1
+2025-04-22,Majority,1,1
+2025-04-23,Majority,1,1
+2025-04-24,Majority,1,1
+2025-04-25,Majority,1,1
+2025-04-28,Majority,1,1
+2025-04-29,Majority,1,1
+2025-04-30,Majority,1,1
+2025-05-02,Majority,1,1
+2025-05-05,Majority,1,1
+2025-05-06,Majority,1,1
+2025-05-07,Majority,1,1
+2025-05-08,Majority,1,1
+2025-05-09,Majority,1,1
+2025-05-12,Majority,1,1
+2025-05-13,Majority,1,1
+2025-05-14,Majority,1,1
+2025-05-15,Majority,1,1
+2025-05-16,Majority,1,1
+2025-05-19,Majority,1,1
+2025-05-20,Majority,1,1
+2025-05-21,Majority,1,1
+2025-05-22,Majority,1,1
+2025-05-23,Majority,1,1
+2025-05-26,Majority,1,1
+2025-05-27,Majority,1,1
+2025-05-28,Majority,1,1
+2025-05-29,Majority,1,1
+2025-05-30,Majority,1,1
+2025-06-02,Majority,1,1
+2025-06-03,Majority,1,1
+2025-06-04,Majority,1,1
+2025-06-05,Majority,1,1
+2025-06-06,Majority,1,1
+2025-06-09,Majority,1,1
+2025-06-10,Majority,1,1
+2025-06-11,Majority,1,1
+2025-06-12,Majority,1,1
+2025-06-13,Majority,1,1
+2025-06-16,Majority,1,1
+2025-06-17,Majority,1,1
+2025-06-18,Majority,1,1
+2025-06-19,Majority,1,1
+2025-06-20,Majority,1,1
+2025-06-23,Majority,1,1
+2025-06-24,Majority,1,1
+2025-06-25,Majority,1,1
+2025-06-26,Majority,1,1
+2025-06-27,Majority,1,1
+2025-06-30,Majority,1,1
+2025-07-01,Majority,1,1
+2025-07-02,Majority,1,1
+2025-07-03,Majority,1,1
+2025-07-04,Majority,1,1
+2025-07-07,Majority,1,1
+2025-07-08,Majority,1,1
+2025-07-09,Majority,1,1
+2025-07-10,Majority,1,1
+2025-07-11,Majority,1,1
+2025-07-14,Majority,1,1
+2025-07-15,Majority,1,1
+2025-07-16,Majority,1,1
+2025-07-17,Majority,1,1
+2025-07-18,Majority,1,1
+2025-07-21,Majority,1,1
+2025-07-22,Majority,1,1
+2025-07-23,Majority,1,1
+2025-07-24,Majority,1,1
+2025-07-25,Majority,1,1
+2025-07-28,Majority,1,1
+2025-07-29,Majority,1,1
+2025-07-30,Majority,1,1
+2025-07-31,Majority,1,1
+2025-08-01,Majority,1,1
+2025-08-04,Majority,1,1
+2025-08-05,Majority,1,1
+2025-08-06,Majority,1,1
+2025-08-07,Majority,1,1
+2025-08-08,Majority,1,1
+2025-08-11,Majority,1,1
+2025-08-12,Majority,1,1
+2025-08-13,Majority,1,1
+2025-08-14,Majority,1,1
+2025-08-18,Majority,1,1
+2025-08-19,Majority,1,1
+2025-08-20,Majority,1,1
+2025-08-21,Majority,1,1
+2025-08-22,Majority,1,1
+2025-08-25,Majority,1,1
+2025-08-26,Majority,1,1
+2025-08-28,Majority,1,1
+2025-08-29,Majority,1,1
+2025-09-01,Majority,1,1
+2025-09-02,Majority,1,1
+2025-09-03,Majority,1,1
+2025-09-04,Majority,1,1
+2025-09-05,Majority,1,1
+2025-09-08,Majority,1,1
+2025-09-09,Majority,1,1
+2025-09-10,Majority,1,1
+2025-09-11,Majority,1,1
+2025-09-12,Majority,1,1
+2025-09-15,Majority,1,1
+2025-09-16,Majority,1,1
+2025-09-17,Majority,1,1
+2025-09-18,Majority,1,1
+2025-09-19,Majority,1,1
+2025-09-22,Majority,1,1
+2025-09-23,Majority,1,1
+2025-09-24,Majority,1,1
+2025-09-25,Majority,1,1
+2025-09-26,Majority,1,1
+2025-09-29,Majority,1,1
+2025-09-30,Majority,1,1
+2025-10-01,Majority,1,1
+2025-10-03,Majority,1,1
+2025-10-06,Majority,1,1
+2025-10-07,Majority,1,1
+2025-10-08,Majority,1,1
+2025-10-09,Majority,1,1
+2025-10-10,Majority,1,1
+2025-10-13,Majority,1,1
+2025-10-14,Majority,1,1
+2025-10-15,Majority,1,1
+2025-10-16,Majority,1,1
+2025-10-17,Majority,1,1
+2025-10-20,Majority,1,1
+2025-10-21,Majority,1,1
+2025-10-23,Majority,1,1
+2025-10-24,Majority,1,1
+2025-10-27,Majority,1,1
+2025-10-28,Majority,1,1
+2025-10-29,Majority,1,1
+2025-10-30,Majority,1,1
+2025-10-31,Majority,1,1
+2025-11-03,Majority,1,1
+2025-11-04,Majority,1,1
+2025-11-06,Majority,1,1
+2025-11-07,Majority,1,1
+2025-11-10,Majority,1,1
+2025-11-11,Majority,1,1
+2025-11-12,Majority,1,1
+2025-11-13,Majority,1,1
+2025-11-14,Majority,1,1
+2025-11-17,Majority,1,1
+2025-11-18,Majority,1,1
+2025-11-19,Majority,1,1
+2025-11-20,Majority,1,1
+2025-11-21,Majority,1,1
+2025-11-24,Majority,1,1
+2025-11-25,Majority,1,1
+2025-11-26,Majority,1,1
+2025-11-27,Majority,1,1
+2025-11-28,Majority,1,1
+2025-12-01,Majority,1,1
+2025-12-02,Majority,1,1
+2025-12-03,Majority,1,1
+2025-12-04,Majority,1,1
+2025-12-05,Majority,1,1
+2025-12-08,Majority,1,1
+2025-12-09,Majority,1,1
+2025-12-10,Majority,1,1
+2025-12-11,Majority,1,1
+2025-12-12,Majority,1,1
+2025-12-15,Majority,1,1
+2025-12-16,Majority,1,1
+2025-12-17,Majority,1,1
+2025-12-18,Majority,1,1
+2025-12-19,Majority,1,1
+2025-12-22,Majority,1,1
+2025-12-23,Majority,1,1
+2025-12-24,Majority,1,1
+2025-12-26,Majority,1,1
+2025-12-29,Majority,1,1
+2025-12-30,Majority,1,1
+2025-12-31,Majority,1,1
+2026-01-01,Majority,1,1
+2026-01-02,Majority,1,1
+2026-01-05,Majority,1,1
+2026-01-06,Majority,1,1
+2026-01-07,Majority,1,1
+2026-01-08,Majority,1,1
+2026-01-09,Majority,1,1
+2026-01-12,Majority,1,1
+2026-01-13,Majority,1,1
+2026-01-14,Majority,1,1
+2026-01-16,Majority,1,1
+2026-01-19,Majority,1,1
+2026-01-20,Majority,1,1
+2026-01-21,Majority,1,1
+2026-01-22,Majority,1,1
+2026-01-23,Majority,1,1
+2026-01-27,Majority,1,1
+2026-01-28,Majority,1,1
+2026-01-29,Majority,1,1
+2026-01-30,Majority,1,1
+2026-02-02,Majority,1,1
+2026-02-03,Majority,1,1
+2026-02-04,Majority,1,1
+2026-02-05,Majority,1,1
+2026-02-06,Majority,1,1
+2026-02-09,Majority,1,1
+2026-02-10,Majority,1,1
+2026-02-11,Majority,1,1
+2026-02-12,Majority,1,1
+2026-02-13,Majority,1,1
+2026-02-16,Majority,1,1
+2026-02-17,Majority,1,1
+2026-02-18,Majority,1,1
+2026-02-19,Majority,1,1
+2026-02-20,Majority,1,1
+2026-02-23,Majority,1,1
+2026-02-24,Majority,1,1
+2026-02-25,Majority,1,1
+2026-02-26,Majority,1,1
+2026-02-27,Majority,1,1
+2026-03-02,Majority,1,1
+2026-03-04,Majority,1,1
+2026-03-05,Majority,1,1
+2026-03-06,Majority,1,1
+2026-03-09,Majority,1,1
+2026-03-10,Majority,1,1
+2026-03-11,Majority,1,1
+2026-03-12,Majority,1,1
+2026-03-13,Majority,1,1
+2026-03-16,Majority,1,1
+2026-03-17,Majority,1,1
+2026-03-18,Majority,1,1
+2026-03-19,Majority,1,1
+2026-03-20,Majority,1,1
+2026-03-23,Majority,1,1
+2026-03-24,Majority,1,1
+2026-03-25,Majority,1,1
+2026-03-27,Majority,1,1
+2026-03-30,Majority,1,1
+2026-04-01,Majority,1,1
+2026-04-02,Majority,1,1
+2026-04-06,Majority,1,1
+2026-04-07,Majority,1,1
+2026-04-08,Majority,1,1
+2026-04-09,Majority,1,1
+2026-04-10,Majority,1,1
+2026-04-13,Majority,1,1
+2026-04-15,Majority,1,1
+2026-04-16,Majority,1,1
+2026-04-17,Majority,1,1
+2026-04-20,Majority,1,1
+2026-04-21,Majority,1,1
+2026-04-22,Majority,1,1
+2026-04-23,Majority,1,1
+2026-04-24,Majority,1,1
+2026-04-27,Majority,1,1
+2026-04-28,Majority,1,1
+2026-04-29,Majority,1,1
+2026-04-30,Majority,1,1
+2026-05-04,Majority,1,1
+2026-05-05,Majority,1,1
+2026-05-06,Majority,1,1
+2026-05-07,Majority,1,1
+2026-05-08,Majority,1,1
+2026-05-11,Majority,1,1
+2026-05-12,Majority,1,1
+2026-05-13,Majority,1,1
+2026-05-14,Majority,1,1
+2026-05-15,Majority,1,1
+2026-05-18,Majority,1,1
+2026-05-19,Majority,1,1
+2026-05-20,Majority,1,1
+2026-05-21,Majority,1,1
+2026-05-22,Majority,1,1
+2026-05-25,Majority,1,1
+2026-05-26,Majority,1,1
+2026-05-27,Majority,1,1
+2026-05-29,Majority,1,1
+2026-06-01,Majority,1,1
+2026-06-02,Majority,1,1
+2026-06-03,Majority,1,1
+2026-06-04,Majority,1,1
+2026-06-05,Majority,1,1
+2026-06-08,Majority,1,1
+2026-06-09,Majority,1,1
+2026-06-10,Majority,1,1
+2026-06-11,Majority,1,1
+2026-06-12,Majority,1,1
+2026-06-15,Majority,1,1
+2026-06-16,Majority,1,1
+2026-06-17,Majority,1,1
+2026-06-18,Majority,1,1
+2026-06-19,Majority,1,1
+2026-06-22,Majority,1,1
+2026-06-23,Majority,1,1
+2026-06-24,Majority,1,1
+2026-06-25,Majority,1,1
+2026-06-29,Majority,1,1
+2026-06-30,Majority,1,1
+2026-07-01,Majority,1,1
+2026-07-02,Majority,1,1
+2026-07-03,Majority,1,1
+2026-07-06,Majority,1,1
+2026-07-07,Majority,1,1
+2026-07-08,Majority,1,1
+2026-07-09,Majority,1,1
+2026-07-10,Majority,1,1
+2026-07-13,Majority,1,1
+2026-07-14,Majority,1,1
+2026-07-15,Majority,1,1
+2026-07-16,Majority,1,1
+2026-07-17,Majority,1,1
+2026-07-20,Majority,1,1
+2026-07-21,Majority,1,1
+2026-07-22,Majority,1,1
+2026-07-23,Majority,1,1
+2026-07-24,Majority,1,1
+2026-07-27,Majority,1,1
+2026-07-28,Majority,1,1
+2026-07-29,Majority,1,1
+2026-07-30,Majority,1,1
+2026-07-31,Majority,1,1
+2026-08-03,Majority,1,1
+2026-08-04,Majority,1,1
+2026-08-05,Majority,1,1
+2026-08-06,Majority,1,1
+2026-08-07,Majority,1,1
+2026-08-10,Majority,1,1
+2026-08-11,Majority,1,1
+2026-08-12,Majority,1,1
+2026-08-13,Majority,1,1
+2026-08-14,Majority,1,1
+2026-08-17,Majority,1,1
+2026-08-18,Majority,1,1
+2026-08-19,Majority,1,1
+2026-08-20,Majority,1,1
+2026-08-21,Majority,1,1
+2026-08-24,Majority,1,1
+2026-08-25,Majority,1,1
+2026-08-26,Majority,1,1
+2026-08-27,Majority,1,1
+2026-08-28,Majority,1,1
+2026-08-31,Majority,1,1
+2026-09-01,Majority,1,1
+2026-09-02,Majority,1,1
+2026-09-03,Majority,1,1
+2026-09-04,Majority,1,1
+2026-09-07,Majority,1,1
+2026-09-08,Majority,1,1
+2026-09-09,Majority,1,1
+2026-09-10,Majority,1,1
+2026-09-11,Majority,1,1
+2026-09-15,Majority,1,1
+2026-09-16,Majority,1,1
+2026-09-17,Majority,1,1
+2026-09-18,Majority,1,1
+2026-09-21,Majority,1,1
+2026-09-22,Majority,1,1
+2026-09-23,Majority,1,1
+2026-09-24,Majority,1,1
+2026-09-25,Majority,1,1
+2026-09-28,Majority,1,1
+2026-09-29,Majority,1,1
+2024-04-05,Logistic Regression,1,1
+2024-04-08,Logistic Regression,1,1
+2024-04-09,Logistic Regression,1,1
+2024-04-10,Logistic Regression,1,1
+2024-04-12,Logistic Regression,1,1
+2024-04-15,Logistic Regression,1,1
+2024-04-16,Logistic Regression,0,0
+2024-04-18,Logistic Regression,1,1
+2024-04-19,Logistic Regression,1,1
+2024-04-22,Logistic Regression,1,1
+2024-04-23,Logistic Regression,1,1
+2024-04-24,Logistic Regression,1,1
+2024-04-25,Logistic Regression,1,1
+2024-04-26,Logistic Regression,1,1
+2024-04-29,Logistic Regression,1,1
+2024-04-30,Logistic Regression,1,1
+2024-05-02,Logistic Regression,1,1
+2024-05-03,Logistic Regression,0,0
+2024-05-06,Logistic Regression,1,1
+2024-05-07,Logistic Regression,0,0
+2024-05-08,Logistic Regression,1,1
+2024-05-09,Logistic Regression,0,0
+2024-05-10,Logistic Regression,1,1
+2024-05-13,Logistic Regression,1,1
+2024-05-14,Logistic Regression,1,1
+2024-05-15,Logistic Regression,1,1
+2024-05-16,Logistic Regression,1,1
+2024-05-17,Logistic Regression,1,1
+2024-05-21,Logistic Regression,1,1
+2024-05-22,Logistic Regression,1,1
+2024-05-23,Logistic Regression,1,1
+2024-05-24,Logistic Regression,1,1
+2024-05-27,Logistic Regression,1,1
+2024-05-28,Logistic Regression,1,1
+2024-05-29,Logistic Regression,1,1
+2024-05-30,Logistic Regression,0,0
+2024-05-31,Logistic Regression,1,1
+2024-06-03,Logistic Regression,1,1
+2024-06-04,Logistic Regression,1,1
+2024-06-05,Logistic Regression,1,1
+2024-06-06,Logistic Regression,1,1
+2024-06-07,Logistic Regression,1,1
+2024-06-10,Logistic Regression,0,0
+2024-06-11,Logistic Regression,1,1
+2024-06-12,Logistic Regression,0,0
+2024-06-13,Logistic Regression,1,1
+2024-06-14,Logistic Regression,0,0
+2024-06-18,Logistic Regression,0,0
+2024-06-19,Logistic Regression,0,0
+2024-06-20,Logistic Regression,0,0
+2024-06-21,Logistic Regression,0,0
+2024-06-24,Logistic Regression,0,0
+2024-06-25,Logistic Regression,1,1
+2024-06-26,Logistic Regression,1,1
+2024-06-27,Logistic Regression,1,1
+2024-06-28,Logistic Regression,0,0
+2024-07-01,Logistic Regression,1,1
+2024-07-02,Logistic Regression,0,0
+2024-07-03,Logistic Regression,1,1
+2024-07-04,Logistic Regression,1,1
+2024-07-05,Logistic Regression,1,1
+2024-07-08,Logistic Regression,1,1
+2024-07-09,Logistic Regression,1,1
+2024-07-10,Logistic Regression,1,1
+2024-07-11,Logistic Regression,1,1
+2024-07-12,Logistic Regression,1,1
+2024-07-15,Logistic Regression,1,1
+2024-07-16,Logistic Regression,1,1
+2024-07-18,Logistic Regression,1,1
+2024-07-19,Logistic Regression,1,1
+2024-07-22,Logistic Regression,1,1
+2024-07-23,Logistic Regression,1,1
+2024-07-24,Logistic Regression,1,1
+2024-07-25,Logistic Regression,1,1
+2024-07-26,Logistic Regression,1,1
+2024-07-29,Logistic Regression,1,1
+2024-07-30,Logistic Regression,1,1
+2024-07-31,Logistic Regression,1,1
+2024-08-01,Logistic Regression,1,1
+2024-08-02,Logistic Regression,0,0
+2024-08-05,Logistic Regression,0,0
+2024-08-06,Logistic Regression,1,1
+2024-08-07,Logistic Regression,1,1
+2024-08-08,Logistic Regression,1,1
+2024-08-09,Logistic Regression,1,1
+2024-08-12,Logistic Regression,1,1
+2024-08-13,Logistic Regression,1,1
+2024-08-14,Logistic Regression,0,0
+2024-08-16,Logistic Regression,1,1
+2024-08-19,Logistic Regression,1,1
+2024-08-20,Logistic Regression,1,1
+2024-08-21,Logistic Regression,1,1
+2024-08-22,Logistic Regression,1,1
+2024-08-23,Logistic Regression,0,0
+2024-08-26,Logistic Regression,1,1
+2024-08-27,Logistic Regression,1,1
+2024-08-28,Logistic Regression,1,1
+2024-08-29,Logistic Regression,1,1
+2024-08-30,Logistic Regression,1,1
+2024-09-02,Logistic Regression,1,1
+2024-09-03,Logistic Regression,1,1
+2024-09-04,Logistic Regression,1,1
+2024-09-05,Logistic Regression,1,1
+2024-09-06,Logistic Regression,0,0
+2024-09-09,Logistic Regression,1,1
+2024-09-10,Logistic Regression,1,1
+2024-09-11,Logistic Regression,1,1
+2024-09-12,Logistic Regression,1,1
+2024-09-13,Logistic Regression,1,1
+2024-09-16,Logistic Regression,1,1
+2024-09-17,Logistic Regression,1,1
+2024-09-18,Logistic Regression,1,1
+2024-09-19,Logistic Regression,0,0
+2024-09-20,Logistic Regression,1,1
+2024-09-23,Logistic Regression,1,1
+2024-09-24,Logistic Regression,1,1
+2024-09-25,Logistic Regression,1,1
+2024-09-26,Logistic Regression,1,1
+2024-09-27,Logistic Regression,1,1
+2024-09-30,Logistic Regression,0,0
+2024-10-01,Logistic Regression,1,1
+2024-10-03,Logistic Regression,1,1
+2024-10-04,Logistic Regression,0,0
+2024-10-07,Logistic Regression,0,0
+2024-10-08,Logistic Regression,1,1
+2024-10-09,Logistic Regression,1,1
+2024-10-10,Logistic Regression,1,1
+2024-10-11,Logistic Regression,0,0
+2024-10-14,Logistic Regression,1,1
+2024-10-15,Logistic Regression,0,0
+2024-10-16,Logistic Regression,0,0
+2024-10-17,Logistic Regression,0,0
+2024-10-18,Logistic Regression,1,1
+2024-10-21,Logistic Regression,1,1
+2024-10-22,Logistic Regression,0,0
+2024-10-23,Logistic Regression,0,0
+2024-10-24,Logistic Regression,1,1
+2024-10-25,Logistic Regression,0,0
+2024-10-28,Logistic Regression,1,1
+2024-10-29,Logistic Regression,1,1
+2024-10-30,Logistic Regression,1,1
+2024-10-31,Logistic Regression,0,0
+2024-11-01,Logistic Regression,1,1
+2024-11-04,Logistic Regression,0,0
+2024-11-05,Logistic Regression,1,1
+2024-11-06,Logistic Regression,1,1
+2024-11-07,Logistic Regression,1,1
+2024-11-08,Logistic Regression,1,1
+2024-11-11,Logistic Regression,1,1
+2024-11-12,Logistic Regression,1,1
+2024-11-13,Logistic Regression,0,0
+2024-11-14,Logistic Regression,1,1
+2024-11-18,Logistic Regression,1,1
+2024-11-19,Logistic Regression,1,1
+2024-11-21,Logistic Regression,0,0
+2024-11-22,Logistic Regression,1,1
+2024-11-25,Logistic Regression,1,1
+2024-11-26,Logistic Regression,1,1
+2024-11-27,Logistic Regression,1,1
+2024-11-28,Logistic Regression,1,1
+2024-11-29,Logistic Regression,1,1
+2024-12-02,Logistic Regression,1,1
+2024-12-03,Logistic Regression,1,1
+2024-12-04,Logistic Regression,1,1
+2024-12-05,Logistic Regression,1,1
+2024-12-06,Logistic Regression,1,1
+2024-12-09,Logistic Regression,1,1
+2024-12-10,Logistic Regression,0,0
+2024-12-11,Logistic Regression,1,1
+2024-12-12,Logistic Regression,0,0
+2024-12-13,Logistic Regression,1,1
+2024-12-16,Logistic Regression,1,1
+2024-12-17,Logistic Regression,1,1
+2024-12-18,Logistic Regression,0,0
+2024-12-19,Logistic Regression,1,1
+2024-12-20,Logistic Regression,0,0
+2024-12-23,Logistic Regression,1,1
+2024-12-24,Logistic Regression,1,1
+2024-12-26,Logistic Regression,1,1
+2024-12-27,Logistic Regression,1,1
+2024-12-30,Logistic Regression,1,1
+2024-12-31,Logistic Regression,0,0
+2025-01-01,Logistic Regression,1,1
+2025-01-02,Logistic Regression,1,1
+2025-01-03,Logistic Regression,1,1
+2025-01-06,Logistic Regression,1,1
+2025-01-07,Logistic Regression,1,1
+2025-01-08,Logistic Regression,1,1
+2025-01-09,Logistic Regression,0,0
+2025-01-10,Logistic Regression,0,0
+2025-01-13,Logistic Regression,1,1
+2025-01-14,Logistic Regression,1,1
+2025-01-15,Logistic Regression,1,1
+2025-01-16,Logistic Regression,1,1
+2025-01-17,Logistic Regression,0,0
+2025-01-20,Logistic Regression,1,1
+2025-01-21,Logistic Regression,0,0
+2025-01-22,Logistic Regression,1,1
+2025-01-23,Logistic Regression,1,1
+2025-01-24,Logistic Regression,1,1
+2025-01-27,Logistic Regression,0,0
+2025-01-28,Logistic Regression,1,1
+2025-01-29,Logistic Regression,1,1
+2025-01-30,Logistic Regression,1,1
+2025-01-31,Logistic Regression,1,1
+2025-02-01,Logistic Regression,1,1
+2025-02-03,Logistic Regression,1,1
+2025-02-04,Logistic Regression,1,1
+2025-02-05,Logistic Regression,1,1
+2025-02-06,Logistic Regression,1,1
+2025-02-07,Logistic Regression,1,1
+2025-02-10,Logistic Regression,1,1
+2025-02-11,Logistic Regression,0,0
+2025-02-12,Logistic Regression,0,0
+2025-02-13,Logistic Regression,1,1
+2025-02-14,Logistic Regression,1,1
+2025-02-17,Logistic Regression,1,1
+2025-02-18,Logistic Regression,1,1
+2025-02-19,Logistic Regression,0,0
+2025-02-20,Logistic Regression,0,0
+2025-02-21,Logistic Regression,0,0
+2025-02-24,Logistic Regression,0,0
+2025-02-25,Logistic Regression,1,1
+2025-02-27,Logistic Regression,1,1
+2025-02-28,Logistic Regression,0,0
+2025-03-03,Logistic Regression,1,1
+2025-03-04,Logistic Regression,1,1
+2025-03-05,Logistic Regression,1,1
+2025-03-06,Logistic Regression,1,1
+2025-03-07,Logistic Regression,1,1
+2025-03-10,Logistic Regression,0,0
+2025-03-11,Logistic Regression,1,1
+2025-03-12,Logistic Regression,1,1
+2025-03-13,Logistic Regression,0,0
+2025-03-17,Logistic Regression,1,1
+2025-03-18,Logistic Regression,1,1
+2025-03-19,Logistic Regression,1,1
+2025-03-20,Logistic Regression,1,1
+2025-03-21,Logistic Regression,1,1
+2025-03-24,Logistic Regression,1,1
+2025-03-25,Logistic Regression,1,1
+2025-03-26,Logistic Regression,1,1
+2025-03-27,Logistic Regression,1,1
+2025-03-28,Logistic Regression,1,1
+2025-04-01,Logistic Regression,0,0
+2025-04-02,Logistic Regression,1,1
+2025-04-03,Logistic Regression,1,1
+2025-04-04,Logistic Regression,0,0
+2025-04-07,Logistic Regression,0,0
+2025-04-08,Logistic Regression,1,1
+2025-04-09,Logistic Regression,1,1
+2025-04-11,Logistic Regression,1,1
+2025-04-15,Logistic Regression,1,1
+2025-04-16,Logistic Regression,1,1
+2025-04-17,Logistic Regression,1,1
+2025-04-21,Logistic Regression,1,1
+2025-04-22,Logistic Regression,1,1
+2025-04-23,Logistic Regression,0,0
+2025-04-24,Logistic Regression,1,1
+2025-04-25,Logistic Regression,0,0
+2025-04-28,Logistic Regression,1,1
+2025-04-29,Logistic Regression,1,1
+2025-04-30,Logistic Regression,1,1
+2025-05-02,Logistic Regression,1,1
+2025-05-05,Logistic Regression,1,1
+2025-05-06,Logistic Regression,0,0
+2025-05-07,Logistic Regression,0,0
+2025-05-08,Logistic Regression,0,0
+2025-05-09,Logistic Regression,0,0
+2025-05-12,Logistic Regression,1,1
+2025-05-13,Logistic Regression,1,1
+2025-05-14,Logistic Regression,1,1
+2025-05-15,Logistic Regression,1,1
+2025-05-16,Logistic Regression,1,1
+2025-05-19,Logistic Regression,0,0
+2025-05-20,Logistic Regression,1,1
+2025-05-21,Logistic Regression,1,1
+2025-05-22,Logistic Regression,0,0
+2025-05-23,Logistic Regression,1,1
+2025-05-26,Logistic Regression,1,1
+2025-05-27,Logistic Regression,1,1
+2025-05-28,Logistic Regression,0,0
+2025-05-29,Logistic Regression,1,1
+2025-05-30,Logistic Regression,0,0
+2025-06-02,Logistic Regression,0,0
+2025-06-03,Logistic Regression,0,0
+2025-06-04,Logistic Regression,1,1
+2025-06-05,Logistic Regression,1,1
+2025-06-06,Logistic Regression,1,1
+2025-06-09,Logistic Regression,1,1
+2025-06-10,Logistic Regression,1,1
+2025-06-11,Logistic Regression,1,1
+2025-06-12,Logistic Regression,1,1
+2025-06-13,Logistic Regression,0,0
+2025-06-16,Logistic Regression,1,1
+2025-06-17,Logistic Regression,1,1
+2025-06-18,Logistic Regression,1,1
+2025-06-19,Logistic Regression,1,1
+2025-06-20,Logistic Regression,1,1
+2025-06-23,Logistic Regression,1,1
+2025-06-24,Logistic Regression,1,1
+2025-06-25,Logistic Regression,1,1
+2025-06-26,Logistic Regression,1,1
+2025-06-27,Logistic Regression,1,1
+2025-06-30,Logistic Regression,1,1
+2025-07-01,Logistic Regression,1,1
+2025-07-02,Logistic Regression,1,1
+2025-07-03,Logistic Regression,1,1
+2025-07-04,Logistic Regression,1,1
+2025-07-07,Logistic Regression,1,1
+2025-07-08,Logistic Regression,1,1
+2025-07-09,Logistic Regression,1,1
+2025-07-10,Logistic Regression,1,1
+2025-07-11,Logistic Regression,0,0
+2025-07-14,Logistic Regression,1,1
+2025-07-15,Logistic Regression,1,1
+2025-07-16,Logistic Regression,1,1
+2025-07-17,Logistic Regression,1,1
+2025-07-18,Logistic Regression,1,1
+2025-07-21,Logistic Regression,1,1
+2025-07-22,Logistic Regression,1,1
+2025-07-23,Logistic Regression,1,1
+2025-07-24,Logistic Regression,1,1
+2025-07-25,Logistic Regression,1,1
+2025-07-28,Logistic Regression,0,0
+2025-07-29,Logistic Regression,1,1
+2025-07-30,Logistic Regression,1,1
+2025-07-31,Logistic Regression,1,1
+2025-08-01,Logistic Regression,1,1
+2025-08-04,Logistic Regression,1,1
+2025-08-05,Logistic Regression,1,1
+2025-08-06,Logistic Regression,1,1
+2025-08-07,Logistic Regression,1,1
+2025-08-08,Logistic Regression,1,1
+2025-08-11,Logistic Regression,1,1
+2025-08-12,Logistic Regression,1,1
+2025-08-13,Logistic Regression,1,1
+2025-08-14,Logistic Regression,1,1
+2025-08-18,Logistic Regression,1,1
+2025-08-19,Logistic Regression,1,1
+2025-08-20,Logistic Regression,1,1
+2025-08-21,Logistic Regression,1,1
+2025-08-22,Logistic Regression,1,1
+2025-08-25,Logistic Regression,1,1
+2025-08-26,Logistic Regression,1,1
+2025-08-28,Logistic Regression,1,1
+2025-08-29,Logistic Regression,0,0
+2025-09-01,Logistic Regression,1,1
+2025-09-02,Logistic Regression,1,1
+2025-09-03,Logistic Regression,1,1
+2025-09-04,Logistic Regression,1,1
+2025-09-05,Logistic Regression,1,1
+2025-09-08,Logistic Regression,0,0
+2025-09-09,Logistic Regression,1,1
+2025-09-10,Logistic Regression,1,1
+2025-09-11,Logistic Regression,1,1
+2025-09-12,Logistic Regression,1,1
+2025-09-15,Logistic Regression,1,1
+2025-09-16,Logistic Regression,1,1
+2025-09-17,Logistic Regression,1,1
+2025-09-18,Logistic Regression,1,1
+2025-09-19,Logistic Regression,1,1
+2025-09-22,Logistic Regression,1,1
+2025-09-23,Logistic Regression,1,1
+2025-09-24,Logistic Regression,1,1
+2025-09-25,Logistic Regression,0,0
+2025-09-26,Logistic Regression,0,0
+2025-09-29,Logistic Regression,1,1
+2025-09-30,Logistic Regression,1,1
+2025-10-01,Logistic Regression,1,1
+2025-10-03,Logistic Regression,1,1
+2025-10-06,Logistic Regression,1,1
+2025-10-07,Logistic Regression,1,1
+2025-10-08,Logistic Regression,1,1
+2025-10-09,Logistic Regression,1,1
+2025-10-10,Logistic Regression,1,1
+2025-10-13,Logistic Regression,1,1
+2025-10-14,Logistic Regression,1,1
+2025-10-15,Logistic Regression,1,1
+2025-10-16,Logistic Regression,1,1
+2025-10-17,Logistic Regression,1,1
+2025-10-20,Logistic Regression,1,1
+2025-10-21,Logistic Regression,1,1
+2025-10-23,Logistic Regression,1,1
+2025-10-24,Logistic Regression,1,1
+2025-10-27,Logistic Regression,1,1
+2025-10-28,Logistic Regression,1,1
+2025-10-29,Logistic Regression,1,1
+2025-10-30,Logistic Regression,1,1
+2025-10-31,Logistic Regression,1,1
+2025-11-03,Logistic Regression,1,1
+2025-11-04,Logistic Regression,1,1
+2025-11-06,Logistic Regression,0,0
+2025-11-07,Logistic Regression,1,1
+2025-11-10,Logistic Regression,1,1
+2025-11-11,Logistic Regression,1,1
+2025-11-12,Logistic Regression,1,1
+2025-11-13,Logistic Regression,1,1
+2025-11-14,Logistic Regression,1,1
+2025-11-17,Logistic Regression,1,1
+2025-11-18,Logistic Regression,1,1
+2025-11-19,Logistic Regression,1,1
+2025-11-20,Logistic Regression,1,1
+2025-11-21,Logistic Regression,1,1
+2025-11-24,Logistic Regression,1,1
+2025-11-25,Logistic Regression,1,1
+2025-11-26,Logistic Regression,1,1
+2025-11-27,Logistic Regression,1,1
+2025-11-28,Logistic Regression,1,1
+2025-12-01,Logistic Regression,1,1
+2025-12-02,Logistic Regression,1,1
+2025-12-03,Logistic Regression,0,0
+2025-12-04,Logistic Regression,1,1
+2025-12-05,Logistic Regression,1,1
+2025-12-08,Logistic Regression,1,1
+2025-12-09,Logistic Regression,1,1
+2025-12-10,Logistic Regression,1,1
+2025-12-11,Logistic Regression,1,1
+2025-12-12,Logistic Regression,1,1
+2025-12-15,Logistic Regression,1,1
+2025-12-16,Logistic Regression,1,1
+2025-12-17,Logistic Regression,1,1
+2025-12-18,Logistic Regression,1,1
+2025-12-19,Logistic Regression,1,1
+2025-12-22,Logistic Regression,1,1
+2025-12-23,Logistic Regression,1,1
+2025-12-24,Logistic Regression,1,1
+2025-12-26,Logistic Regression,1,1
+2025-12-29,Logistic Regression,1,1
+2025-12-30,Logistic Regression,0,0
+2025-12-31,Logistic Regression,1,1
+2026-01-01,Logistic Regression,1,1
+2026-01-02,Logistic Regression,1,1
+2026-01-05,Logistic Regression,1,1
+2026-01-06,Logistic Regression,1,1
+2026-01-07,Logistic Regression,1,1
+2026-01-08,Logistic Regression,1,1
+2026-01-09,Logistic Regression,0,0
+2026-01-12,Logistic Regression,1,1
+2026-01-13,Logistic Regression,1,1
+2026-01-14,Logistic Regression,1,1
+2026-01-16,Logistic Regression,1,1
+2026-01-19,Logistic Regression,1,1
+2026-01-20,Logistic Regression,0,0
+2026-01-21,Logistic Regression,0,0
+2026-01-22,Logistic Regression,1,1
+2026-01-23,Logistic Regression,1,1
+2026-01-27,Logistic Regression,1,1
+2026-01-28,Logistic Regression,1,1
+2026-01-29,Logistic Regression,1,1
+2026-01-30,Logistic Regression,0,0
+2026-02-02,Logistic Regression,1,1
+2026-02-03,Logistic Regression,1,1
+2026-02-04,Logistic Regression,1,1
+2026-02-05,Logistic Regression,1,1
+2026-02-06,Logistic Regression,1,1
+2026-02-09,Logistic Regression,1,1
+2026-02-10,Logistic Regression,0,0
+2026-02-11,Logistic Regression,1,1
+2026-02-12,Logistic Regression,1,1
+2026-02-13,Logistic Regression,0,0
+2026-02-16,Logistic Regression,1,1
+2026-02-17,Logistic Regression,1,1
+2026-02-18,Logistic Regression,1,1
+2026-02-19,Logistic Regression,0,0
+2026-02-20,Logistic Regression,1,1
+2026-02-23,Logistic Regression,1,1
+2026-02-24,Logistic Regression,1,1
+2026-02-25,Logistic Regression,0,0
+2026-02-26,Logistic Regression,1,1
+2026-02-27,Logistic Regression,1,1
+2026-03-02,Logistic Regression,0,0
+2026-03-04,Logistic Regression,0,0
+2026-03-05,Logistic Regression,1,1
+2026-03-06,Logistic Regression,1,1
+2026-03-09,Logistic Regression,0,0
+2026-03-10,Logistic Regression,1,1
+2026-03-11,Logistic Regression,1,1
+2026-03-12,Logistic Regression,0,0
+2026-03-13,Logistic Regression,0,0
+2026-03-16,Logistic Regression,1,1
+2026-03-17,Logistic Regression,1,1
+2026-03-18,Logistic Regression,1,1
+2026-03-19,Logistic Regression,0,0
+2026-03-20,Logistic Regression,1,1
+2026-03-23,Logistic Regression,0,0
+2026-03-24,Logistic Regression,1,1
+2026-03-25,Logistic Regression,1,1
+2026-03-27,Logistic Regression,1,1
+2026-03-30,Logistic Regression,0,0
+2026-04-01,Logistic Regression,1,1
+2026-04-02,Logistic Regression,1,1
+2026-04-06,Logistic Regression,1,1
+2026-04-07,Logistic Regression,1,1
+2026-04-08,Logistic Regression,1,1
+2026-04-09,Logistic Regression,1,1
+2026-04-10,Logistic Regression,1,1
+2026-04-13,Logistic Regression,1,1
+2026-04-15,Logistic Regression,1,1
+2026-04-16,Logistic Regression,0,0
+2026-04-17,Logistic Regression,1,1
+2026-04-20,Logistic Regression,0,0
+2026-04-21,Logistic Regression,1,1
+2026-04-22,Logistic Regression,0,0
+2026-04-23,Logistic Regression,0,0
+2026-04-24,Logistic Regression,0,0
+2026-04-27,Logistic Regression,1,1
+2026-04-28,Logistic Regression,0,0
+2026-04-29,Logistic Regression,1,1
+2026-04-30,Logistic Regression,1,1
+2026-05-04,Logistic Regression,1,1
+2026-05-05,Logistic Regression,0,0
+2026-05-06,Logistic Regression,1,1
+2026-05-07,Logistic Regression,1,1
+2026-05-08,Logistic Regression,1,1
+2026-05-11,Logistic Regression,0,0
+2026-05-12,Logistic Regression,1,1
+2026-05-13,Logistic Regression,0,0
+2026-05-14,Logistic Regression,1,1
+2026-05-15,Logistic Regression,1,1
+2026-05-18,Logistic Regression,1,1
+2026-05-19,Logistic Regression,1,1
+2026-05-20,Logistic Regression,1,1
+2026-05-21,Logistic Regression,0,0
+2026-05-22,Logistic Regression,0,0
+2026-05-25,Logistic Regression,1,1
+2026-05-26,Logistic Regression,1,1
+2026-05-27,Logistic Regression,1,1
+2026-05-29,Logistic Regression,0,0
+2026-06-01,Logistic Regression,1,1
+2026-06-02,Logistic Regression,1,1
+2026-06-03,Logistic Regression,1,1
+2026-06-04,Logistic Regression,1,1
+2026-06-05,Logistic Regression,1,1
+2026-06-08,Logistic Regression,0,0
+2026-06-09,Logistic Regression,1,1
+2026-06-10,Logistic Regression,1,1
+2026-06-11,Logistic Regression,1,1
+2026-06-12,Logistic Regression,1,1
+2026-06-15,Logistic Regression,1,1
+2026-06-16,Logistic Regression,1,1
+2026-06-17,Logistic Regression,1,1
+2026-06-18,Logistic Regression,1,1
+2026-06-19,Logistic Regression,0,0
+2026-06-22,Logistic Regression,1,1
+2026-06-23,Logistic Regression,1,1
+2026-06-24,Logistic Regression,1,1
+2026-06-25,Logistic Regression,1,1
+2026-06-29,Logistic Regression,1,1
+2026-06-30,Logistic Regression,0,0
+2026-07-01,Logistic Regression,1,1
+2026-07-02,Logistic Regression,1,1
+2026-07-03,Logistic Regression,1,1
+2026-07-06,Logistic Regression,1,1
+2026-07-07,Logistic Regression,1,1
+2026-07-08,Logistic Regression,0,0
+2026-07-09,Logistic Regression,1,1
+2026-07-10,Logistic Regression,1,1
+2026-07-13,Logistic Regression,1,1
+2026-07-14,Logistic Regression,1,1
+2026-07-15,Logistic Regression,1,1
+2026-07-16,Logistic Regression,1,1
+2026-07-17,Logistic Regression,1,1
+2026-07-20,Logistic Regression,1,1
+2026-07-21,Logistic Regression,1,1
+2026-07-22,Logistic Regression,1,1
+2026-07-23,Logistic Regression,1,1
+2026-07-24,Logistic Regression,0,0
+2026-07-27,Logistic Regression,1,1
+2026-07-28,Logistic Regression,1,1
+2026-07-29,Logistic Regression,1,1
+2026-07-30,Logistic Regression,1,1
+2026-07-31,Logistic Regression,1,1
+2026-08-03,Logistic Regression,1,1
+2026-08-04,Logistic Regression,1,1
+2026-08-05,Logistic Regression,1,1
+2026-08-06,Logistic Regression,1,1
+2026-08-07,Logistic Regression,1,1
+2026-08-10,Logistic Regression,0,0
+2026-08-11,Logistic Regression,1,1
+2026-08-12,Logistic Regression,1,1
+2026-08-13,Logistic Regression,0,0
+2026-08-14,Logistic Regression,1,1
+2026-08-17,Logistic Regression,0,0
+2026-08-18,Logistic Regression,0,0
+2026-08-19,Logistic Regression,0,0
+2026-08-20,Logistic Regression,1,1
+2026-08-21,Logistic Regression,1,1
+2026-08-24,Logistic Regression,1,1
+2026-08-25,Logistic Regression,1,1
+2026-08-26,Logistic Regression,1,1
+2026-08-27,Logistic Regression,0,0
+2026-08-28,Logistic Regression,1,1
+2026-08-31,Logistic Regression,1,1
+2026-09-01,Logistic Regression,1,1
+2026-09-02,Logistic Regression,1,1
+2026-09-03,Logistic Regression,1,1
+2026-09-04,Logistic Regression,1,1
+2026-09-07,Logistic Regression,1,1
+2026-09-08,Logistic Regression,0,0
+2026-09-09,Logistic Regression,0,0
+2026-09-10,Logistic Regression,1,1
+2026-09-11,Logistic Regression,1,1
+2026-09-15,Logistic Regression,0,0
+2026-09-16,Logistic Regression,1,1
+2026-09-17,Logistic Regression,1,1
+2026-09-18,Logistic Regression,1,1
+2026-09-21,Logistic Regression,1,1
+2026-09-22,Logistic Regression,1,1
+2026-09-23,Logistic Regression,1,1
+2026-09-24,Logistic Regression,1,1
+2026-09-25,Logistic Regression,1,1
+2026-09-28,Logistic Regression,0,0
+2026-09-29,Logistic Regression,1,1
+2024-04-05,FNN,1,1
+2024-04-08,FNN,1,1
+2024-04-09,FNN,1,1
+2024-04-10,FNN,1,1
+2024-04-12,FNN,1,1
+2024-04-15,FNN,1,1
+2024-04-16,FNN,1,1
+2024-04-18,FNN,1,1
+2024-04-19,FNN,1,1
+2024-04-22,FNN,1,1
+2024-04-23,FNN,1,1
+2024-04-24,FNN,1,1
+2024-04-25,FNN,1,1
+2024-04-26,FNN,1,1
+2024-04-29,FNN,1,1
+2024-04-30,FNN,1,1
+2024-05-02,FNN,1,1
+2024-05-03,FNN,1,1
+2024-05-06,FNN,1,1
+2024-05-07,FNN,1,1
+2024-05-08,FNN,1,1
+2024-05-09,FNN,0,0
+2024-05-10,FNN,1,1
+2024-05-13,FNN,1,1
+2024-05-14,FNN,1,1
+2024-05-15,FNN,1,1
+2024-05-16,FNN,1,1
+2024-05-17,FNN,1,1
+2024-05-21,FNN,1,1
+2024-05-22,FNN,1,1
+2024-05-23,FNN,1,1
+2024-05-24,FNN,1,1
+2024-05-27,FNN,1,1
+2024-05-28,FNN,1,1
+2024-05-29,FNN,1,1
+2024-05-30,FNN,1,1
+2024-05-31,FNN,1,1
+2024-06-03,FNN,1,1
+2024-06-04,FNN,0,0
+2024-06-05,FNN,1,1
+2024-06-06,FNN,0,0
+2024-06-07,FNN,1,1
+2024-06-10,FNN,0,0
+2024-06-11,FNN,1,1
+2024-06-12,FNN,1,1
+2024-06-13,FNN,1,1
+2024-06-14,FNN,1,1
+2024-06-18,FNN,1,1
+2024-06-19,FNN,1,1
+2024-06-20,FNN,1,1
+2024-06-21,FNN,1,1
+2024-06-24,FNN,1,1
+2024-06-25,FNN,1,1
+2024-06-26,FNN,1,1
+2024-06-27,FNN,1,1
+2024-06-28,FNN,1,1
+2024-07-01,FNN,1,1
+2024-07-02,FNN,1,1
+2024-07-03,FNN,1,1
+2024-07-04,FNN,1,1
+2024-07-05,FNN,1,1
+2024-07-08,FNN,1,1
+2024-07-09,FNN,1,1
+2024-07-10,FNN,1,1
+2024-07-11,FNN,1,1
+2024-07-12,FNN,1,1
+2024-07-15,FNN,1,1
+2024-07-16,FNN,1,1
+2024-07-18,FNN,1,1
+2024-07-19,FNN,1,1
+2024-07-22,FNN,1,1
+2024-07-23,FNN,1,1
+2024-07-24,FNN,1,1
+2024-07-25,FNN,1,1
+2024-07-26,FNN,1,1
+2024-07-29,FNN,1,1
+2024-07-30,FNN,1,1
+2024-07-31,FNN,1,1
+2024-08-01,FNN,1,1
+2024-08-02,FNN,1,1
+2024-08-05,FNN,1,1
+2024-08-06,FNN,1,1
+2024-08-07,FNN,1,1
+2024-08-08,FNN,1,1
+2024-08-09,FNN,1,1
+2024-08-12,FNN,1,1
+2024-08-13,FNN,1,1
+2024-08-14,FNN,1,1
+2024-08-16,FNN,1,1
+2024-08-19,FNN,1,1
+2024-08-20,FNN,1,1
+2024-08-21,FNN,1,1
+2024-08-22,FNN,1,1
+2024-08-23,FNN,1,1
+2024-08-26,FNN,1,1
+2024-08-27,FNN,1,1
+2024-08-28,FNN,1,1
+2024-08-29,FNN,1,1
+2024-08-30,FNN,1,1
+2024-09-02,FNN,1,1
+2024-09-03,FNN,1,1
+2024-09-04,FNN,1,1
+2024-09-05,FNN,1,1
+2024-09-06,FNN,1,1
+2024-09-09,FNN,1,1
+2024-09-10,FNN,1,1
+2024-09-11,FNN,1,1
+2024-09-12,FNN,1,1
+2024-09-13,FNN,1,1
+2024-09-16,FNN,1,1
+2024-09-17,FNN,1,1
+2024-09-18,FNN,1,1
+2024-09-19,FNN,1,1
+2024-09-20,FNN,1,1
+2024-09-23,FNN,1,1
+2024-09-24,FNN,1,1
+2024-09-25,FNN,1,1
+2024-09-26,FNN,1,1
+2024-09-27,FNN,1,1
+2024-09-30,FNN,1,1
+2024-10-01,FNN,1,1
+2024-10-03,FNN,1,1
+2024-10-04,FNN,1,1
+2024-10-07,FNN,0,0
+2024-10-08,FNN,1,1
+2024-10-09,FNN,1,1
+2024-10-10,FNN,1,1
+2024-10-11,FNN,1,1
+2024-10-14,FNN,1,1
+2024-10-15,FNN,1,1
+2024-10-16,FNN,1,1
+2024-10-17,FNN,1,1
+2024-10-18,FNN,1,1
+2024-10-21,FNN,1,1
+2024-10-22,FNN,1,1
+2024-10-23,FNN,1,1
+2024-10-24,FNN,1,1
+2024-10-25,FNN,1,1
+2024-10-28,FNN,0,0
+2024-10-29,FNN,1,1
+2024-10-30,FNN,1,1
+2024-10-31,FNN,1,1
+2024-11-01,FNN,1,1
+2024-11-04,FNN,1,1
+2024-11-05,FNN,1,1
+2024-11-06,FNN,1,1
+2024-11-07,FNN,1,1
+2024-11-08,FNN,1,1
+2024-11-11,FNN,1,1
+2024-11-12,FNN,1,1
+2024-11-13,FNN,0,0
+2024-11-14,FNN,1,1
+2024-11-18,FNN,1,1
+2024-11-19,FNN,1,1
+2024-11-21,FNN,1,1
+2024-11-22,FNN,1,1
+2024-11-25,FNN,1,1
+2024-11-26,FNN,1,1
+2024-11-27,FNN,1,1
+2024-11-28,FNN,1,1
+2024-11-29,FNN,1,1
+2024-12-02,FNN,1,1
+2024-12-03,FNN,1,1
+2024-12-04,FNN,1,1
+2024-12-05,FNN,1,1
+2024-12-06,FNN,1,1
+2024-12-09,FNN,1,1
+2024-12-10,FNN,1,1
+2024-12-11,FNN,1,1
+2024-12-12,FNN,1,1
+2024-12-13,FNN,1,1
+2024-12-16,FNN,1,1
+2024-12-17,FNN,1,1
+2024-12-18,FNN,1,1
+2024-12-19,FNN,1,1
+2024-12-20,FNN,0,0
+2024-12-23,FNN,0,0
+2024-12-24,FNN,1,1
+2024-12-26,FNN,1,1
+2024-12-27,FNN,1,1
+2024-12-30,FNN,1,1
+2024-12-31,FNN,1,1
+2025-01-01,FNN,1,1
+2025-01-02,FNN,1,1
+2025-01-03,FNN,1,1
+2025-01-06,FNN,1,1
+2025-01-07,FNN,1,1
+2025-01-08,FNN,1,1
+2025-01-09,FNN,1,1
+2025-01-10,FNN,1,1
+2025-01-13,FNN,1,1
+2025-01-14,FNN,1,1
+2025-01-15,FNN,1,1
+2025-01-16,FNN,1,1
+2025-01-17,FNN,1,1
+2025-01-20,FNN,1,1
+2025-01-21,FNN,1,1
+2025-01-22,FNN,1,1
+2025-01-23,FNN,1,1
+2025-01-24,FNN,1,1
+2025-01-27,FNN,1,1
+2025-01-28,FNN,1,1
+2025-01-29,FNN,1,1
+2025-01-30,FNN,1,1
+2025-01-31,FNN,1,1
+2025-02-01,FNN,1,1
+2025-02-03,FNN,1,1
+2025-02-04,FNN,1,1
+2025-02-05,FNN,1,1
+2025-02-06,FNN,1,1
+2025-02-07,FNN,1,1
+2025-02-10,FNN,1,1
+2025-02-11,FNN,1,1
+2025-02-12,FNN,1,1
+2025-02-13,FNN,1,1
+2025-02-14,FNN,1,1
+2025-02-17,FNN,1,1
+2025-02-18,FNN,1,1
+2025-02-19,FNN,1,1
+2025-02-20,FNN,1,1
+2025-02-21,FNN,1,1
+2025-02-24,FNN,1,1
+2025-02-25,FNN,1,1
+2025-02-27,FNN,1,1
+2025-02-28,FNN,0,0
+2025-03-03,FNN,0,0
+2025-03-04,FNN,1,1
+2025-03-05,FNN,1,1
+2025-03-06,FNN,1,1
+2025-03-07,FNN,1,1
+2025-03-10,FNN,1,1
+2025-03-11,FNN,1,1
+2025-03-12,FNN,1,1
+2025-03-13,FNN,1,1
+2025-03-17,FNN,1,1
+2025-03-18,FNN,1,1
+2025-03-19,FNN,1,1
+2025-03-20,FNN,1,1
+2025-03-21,FNN,1,1
+2025-03-24,FNN,1,1
+2025-03-25,FNN,1,1
+2025-03-26,FNN,1,1
+2025-03-27,FNN,1,1
+2025-03-28,FNN,1,1
+2025-04-01,FNN,1,1
+2025-04-02,FNN,1,1
+2025-04-03,FNN,1,1
+2025-04-04,FNN,1,1
+2025-04-07,FNN,0,0
+2025-04-08,FNN,1,1
+2025-04-09,FNN,0,0
+2025-04-11,FNN,1,1
+2025-04-15,FNN,1,1
+2025-04-16,FNN,1,1
+2025-04-17,FNN,1,1
+2025-04-21,FNN,1,1
+2025-04-22,FNN,1,1
+2025-04-23,FNN,1,1
+2025-04-24,FNN,1,1
+2025-04-25,FNN,1,1
+2025-04-28,FNN,1,1
+2025-04-29,FNN,1,1
+2025-04-30,FNN,1,1
+2025-05-02,FNN,1,1
+2025-05-05,FNN,1,1
+2025-05-06,FNN,1,1
+2025-05-07,FNN,1,1
+2025-05-08,FNN,1,1
+2025-05-09,FNN,1,1
+2025-05-12,FNN,1,1
+2025-05-13,FNN,1,1
+2025-05-14,FNN,1,1
+2025-05-15,FNN,1,1
+2025-05-16,FNN,1,1
+2025-05-19,FNN,1,1
+2025-05-20,FNN,1,1
+2025-05-21,FNN,1,1
+2025-05-22,FNN,1,1
+2025-05-23,FNN,1,1
+2025-05-26,FNN,1,1
+2025-05-27,FNN,1,1
+2025-05-28,FNN,1,1
+2025-05-29,FNN,1,1
+2025-05-30,FNN,1,1
+2025-06-02,FNN,1,1
+2025-06-03,FNN,1,1
+2025-06-04,FNN,1,1
+2025-06-05,FNN,1,1
+2025-06-06,FNN,1,1
+2025-06-09,FNN,1,1
+2025-06-10,FNN,1,1
+2025-06-11,FNN,1,1
+2025-06-12,FNN,1,1
+2025-06-13,FNN,1,1
+2025-06-16,FNN,1,1
+2025-06-17,FNN,1,1
+2025-06-18,FNN,1,1
+2025-06-19,FNN,1,1
+2025-06-20,FNN,1,1
+2025-06-23,FNN,1,1
+2025-06-24,FNN,1,1
+2025-06-25,FNN,1,1
+2025-06-26,FNN,1,1
+2025-06-27,FNN,1,1
+2025-06-30,FNN,1,1
+2025-07-01,FNN,1,1
+2025-07-02,FNN,1,1
+2025-07-03,FNN,1,1
+2025-07-04,FNN,1,1
+2025-07-07,FNN,1,1
+2025-07-08,FNN,1,1
+2025-07-09,FNN,1,1
+2025-07-10,FNN,1,1
+2025-07-11,FNN,1,1
+2025-07-14,FNN,1,1
+2025-07-15,FNN,1,1
+2025-07-16,FNN,1,1
+2025-07-17,FNN,1,1
+2025-07-18,FNN,1,1
+2025-07-21,FNN,1,1
+2025-07-22,FNN,1,1
+2025-07-23,FNN,1,1
+2025-07-24,FNN,1,1
+2025-07-25,FNN,1,1
+2025-07-28,FNN,1,1
+2025-07-29,FNN,1,1
+2025-07-30,FNN,1,1
+2025-07-31,FNN,1,1
+2025-08-01,FNN,1,1
+2025-08-04,FNN,1,1
+2025-08-05,FNN,1,1
+2025-08-06,FNN,1,1
+2025-08-07,FNN,1,1
+2025-08-08,FNN,1,1
+2025-08-11,FNN,1,1
+2025-08-12,FNN,1,1
+2025-08-13,FNN,1,1
+2025-08-14,FNN,1,1
+2025-08-18,FNN,1,1
+2025-08-19,FNN,1,1
+2025-08-20,FNN,1,1
+2025-08-21,FNN,1,1
+2025-08-22,FNN,1,1
+2025-08-25,FNN,1,1
+2025-08-26,FNN,1,1
+2025-08-28,FNN,1,1
+2025-08-29,FNN,1,1
+2025-09-01,FNN,1,1
+2025-09-02,FNN,1,1
+2025-09-03,FNN,1,1
+2025-09-04,FNN,1,1
+2025-09-05,FNN,1,1
+2025-09-08,FNN,1,1
+2025-09-09,FNN,1,1
+2025-09-10,FNN,1,1
+2025-09-11,FNN,1,1
+2025-09-12,FNN,1,1
+2025-09-15,FNN,1,1
+2025-09-16,FNN,1,1
+2025-09-17,FNN,1,1
+2025-09-18,FNN,1,1
+2025-09-19,FNN,1,1
+2025-09-22,FNN,1,1
+2025-09-23,FNN,1,1
+2025-09-24,FNN,1,1
+2025-09-25,FNN,1,1
+2025-09-26,FNN,1,1
+2025-09-29,FNN,1,1
+2025-09-30,FNN,1,1
+2025-10-01,FNN,1,1
+2025-10-03,FNN,1,1
+2025-10-06,FNN,1,1
+2025-10-07,FNN,1,1
+2025-10-08,FNN,1,1
+2025-10-09,FNN,1,1
+2025-10-10,FNN,1,1
+2025-10-13,FNN,1,1
+2025-10-14,FNN,1,1
+2025-10-15,FNN,1,1
+2025-10-16,FNN,1,1
+2025-10-17,FNN,1,1
+2025-10-20,FNN,1,1
+2025-10-21,FNN,1,1
+2025-10-23,FNN,1,1
+2025-10-24,FNN,1,1
+2025-10-27,FNN,1,1
+2025-10-28,FNN,1,1
+2025-10-29,FNN,1,1
+2025-10-30,FNN,1,1
+2025-10-31,FNN,1,1
+2025-11-03,FNN,1,1
+2025-11-04,FNN,1,1
+2025-11-06,FNN,1,1
+2025-11-07,FNN,1,1
+2025-11-10,FNN,1,1
+2025-11-11,FNN,1,1
+2025-11-12,FNN,1,1
+2025-11-13,FNN,1,1
+2025-11-14,FNN,1,1
+2025-11-17,FNN,1,1
+2025-11-18,FNN,1,1
+2025-11-19,FNN,1,1
+2025-11-20,FNN,1,1
+2025-11-21,FNN,1,1
+2025-11-24,FNN,1,1
+2025-11-25,FNN,1,1
+2025-11-26,FNN,1,1
+2025-11-27,FNN,1,1
+2025-11-28,FNN,1,1
+2025-12-01,FNN,1,1
+2025-12-02,FNN,1,1
+2025-12-03,FNN,1,1
+2025-12-04,FNN,1,1
+2025-12-05,FNN,1,1
+2025-12-08,FNN,1,1
+2025-12-09,FNN,1,1
+2025-12-10,FNN,1,1
+2025-12-11,FNN,1,1
+2025-12-12,FNN,1,1
+2025-12-15,FNN,1,1
+2025-12-16,FNN,1,1
+2025-12-17,FNN,1,1
+2025-12-18,FNN,1,1
+2025-12-19,FNN,1,1
+2025-12-22,FNN,1,1
+2025-12-23,FNN,1,1
+2025-12-24,FNN,1,1
+2025-12-26,FNN,1,1
+2025-12-29,FNN,1,1
+2025-12-30,FNN,1,1
+2025-12-31,FNN,1,1
+2026-01-01,FNN,1,1
+2026-01-02,FNN,1,1
+2026-01-05,FNN,1,1
+2026-01-06,FNN,1,1
+2026-01-07,FNN,1,1
+2026-01-08,FNN,1,1
+2026-01-09,FNN,1,1
+2026-01-12,FNN,1,1
+2026-01-13,FNN,1,1
+2026-01-14,FNN,1,1
+2026-01-16,FNN,1,1
+2026-01-19,FNN,1,1
+2026-01-20,FNN,1,1
+2026-01-21,FNN,1,1
+2026-01-22,FNN,1,1
+2026-01-23,FNN,1,1
+2026-01-27,FNN,1,1
+2026-01-28,FNN,1,1
+2026-01-29,FNN,1,1
+2026-01-30,FNN,1,1
+2026-02-02,FNN,1,1
+2026-02-03,FNN,1,1
+2026-02-04,FNN,1,1
+2026-02-05,FNN,1,1
+2026-02-06,FNN,1,1
+2026-02-09,FNN,1,1
+2026-02-10,FNN,1,1
+2026-02-11,FNN,1,1
+2026-02-12,FNN,1,1
+2026-02-13,FNN,1,1
+2026-02-16,FNN,1,1
+2026-02-17,FNN,1,1
+2026-02-18,FNN,1,1
+2026-02-19,FNN,1,1
+2026-02-20,FNN,1,1
+2026-02-23,FNN,1,1
+2026-02-24,FNN,1,1
+2026-02-25,FNN,1,1
+2026-02-26,FNN,1,1
+2026-02-27,FNN,1,1
+2026-03-02,FNN,0,0
+2026-03-04,FNN,1,1
+2026-03-05,FNN,1,1
+2026-03-06,FNN,1,1
+2026-03-09,FNN,1,1
+2026-03-10,FNN,0,0
+2026-03-11,FNN,1,1
+2026-03-12,FNN,0,0
+2026-03-13,FNN,0,0
+2026-03-16,FNN,1,1
+2026-03-17,FNN,0,0
+2026-03-18,FNN,1,1
+2026-03-19,FNN,0,0
+2026-03-20,FNN,1,1
+2026-03-23,FNN,0,0
+2026-03-24,FNN,1,1
+2026-03-25,FNN,0,0
+2026-03-27,FNN,1,1
+2026-03-30,FNN,1,1
+2026-04-01,FNN,1,1
+2026-04-02,FNN,1,1
+2026-04-06,FNN,1,1
+2026-04-07,FNN,1,1
+2026-04-08,FNN,1,1
+2026-04-09,FNN,1,1
+2026-04-10,FNN,1,1
+2026-04-13,FNN,1,1
+2026-04-15,FNN,1,1
+2026-04-16,FNN,1,1
+2026-04-17,FNN,1,1
+2026-04-20,FNN,1,1
+2026-04-21,FNN,1,1
+2026-04-22,FNN,1,1
+2026-04-23,FNN,1,1
+2026-04-24,FNN,1,1
+2026-04-27,FNN,1,1
+2026-04-28,FNN,1,1
+2026-04-29,FNN,1,1
+2026-04-30,FNN,1,1
+2026-05-04,FNN,1,1
+2026-05-05,FNN,1,1
+2026-05-06,FNN,1,1
+2026-05-07,FNN,1,1
+2026-05-08,FNN,1,1
+2026-05-11,FNN,1,1
+2026-05-12,FNN,1,1
+2026-05-13,FNN,1,1
+2026-05-14,FNN,1,1
+2026-05-15,FNN,1,1
+2026-05-18,FNN,1,1
+2026-05-19,FNN,1,1
+2026-05-20,FNN,1,1
+2026-05-21,FNN,1,1
+2026-05-22,FNN,1,1
+2026-05-25,FNN,1,1
+2026-05-26,FNN,1,1
+2026-05-27,FNN,1,1
+2026-05-29,FNN,1,1
+2026-06-01,FNN,1,1
+2026-06-02,FNN,1,1
+2026-06-03,FNN,1,1
+2026-06-04,FNN,1,1
+2026-06-05,FNN,1,1
+2026-06-08,FNN,1,1
+2026-06-09,FNN,1,1
+2026-06-10,FNN,1,1
+2026-06-11,FNN,1,1
+2026-06-12,FNN,1,1
+2026-06-15,FNN,1,1
+2026-06-16,FNN,1,1
+2026-06-17,FNN,1,1
+2026-06-18,FNN,1,1
+2026-06-19,FNN,1,1
+2026-06-22,FNN,1,1
+2026-06-23,FNN,1,1
+2026-06-24,FNN,1,1
+2026-06-25,FNN,1,1
+2026-06-29,FNN,1,1
+2026-06-30,FNN,1,1
+2026-07-01,FNN,1,1
+2026-07-02,FNN,1,1
+2026-07-03,FNN,1,1
+2026-07-06,FNN,1,1
+2026-07-07,FNN,1,1
+2026-07-08,FNN,1,1
+2026-07-09,FNN,1,1
+2026-07-10,FNN,1,1
+2026-07-13,FNN,1,1
+2026-07-14,FNN,1,1
+2026-07-15,FNN,1,1
+2026-07-16,FNN,1,1
+2026-07-17,FNN,1,1
+2026-07-20,FNN,1,1
+2026-07-21,FNN,1,1
+2026-07-22,FNN,1,1
+2026-07-23,FNN,1,1
+2026-07-24,FNN,1,1
+2026-07-27,FNN,1,1
+2026-07-28,FNN,1,1
+2026-07-29,FNN,1,1
+2026-07-30,FNN,1,1
+2026-07-31,FNN,1,1
+2026-08-03,FNN,1,1
+2026-08-04,FNN,1,1
+2026-08-05,FNN,1,1
+2026-08-06,FNN,1,1
+2026-08-07,FNN,1,1
+2026-08-10,FNN,1,1
+2026-08-11,FNN,1,1
+2026-08-12,FNN,1,1
+2026-08-13,FNN,1,1
+2026-08-14,FNN,1,1
+2026-08-17,FNN,1,1
+2026-08-18,FNN,1,1
+2026-08-19,FNN,1,1
+2026-08-20,FNN,1,1
+2026-08-21,FNN,1,1
+2026-08-24,FNN,1,1
+2026-08-25,FNN,1,1
+2026-08-26,FNN,1,1
+2026-08-27,FNN,1,1
+2026-08-28,FNN,1,1
+2026-08-31,FNN,1,1
+2026-09-01,FNN,1,1
+2026-09-02,FNN,1,1
+2026-09-03,FNN,1,1
+2026-09-04,FNN,1,1
+2026-09-07,FNN,1,1
+2026-09-08,FNN,1,1
+2026-09-09,FNN,1,1
+2026-09-10,FNN,1,1
+2026-09-11,FNN,1,1
+2026-09-15,FNN,1,1
+2026-09-16,FNN,1,1
+2026-09-17,FNN,1,1
+2026-09-18,FNN,1,1
+2026-09-21,FNN,1,1
+2026-09-22,FNN,1,1
+2026-09-23,FNN,1,1
+2026-09-24,FNN,1,1
+2026-09-25,FNN,1,1
+2026-09-28,FNN,0,0
+2026-09-29,FNN,1,1
+2024-04-05,LSTM,1,1
+2024-04-08,LSTM,1,1
+2024-04-09,LSTM,1,1
+2024-04-10,LSTM,1,1
+2024-04-12,LSTM,1,1
+2024-04-15,LSTM,1,1
+2024-04-16,LSTM,1,1
+2024-04-18,LSTM,1,1
+2024-04-19,LSTM,1,1
+2024-04-22,LSTM,1,1
+2024-04-23,LSTM,1,1
+2024-04-24,LSTM,1,1
+2024-04-25,LSTM,1,1
+2024-04-26,LSTM,1,1
+2024-04-29,LSTM,1,1
+2024-04-30,LSTM,1,1
+2024-05-02,LSTM,1,1
+2024-05-03,LSTM,1,1
+2024-05-06,LSTM,1,1
+2024-05-07,LSTM,1,1
+2024-05-08,LSTM,1,1
+2024-05-09,LSTM,1,1
+2024-05-10,LSTM,1,1
+2024-05-13,LSTM,1,1
+2024-05-14,LSTM,1,1
+2024-05-15,LSTM,1,1
+2024-05-16,LSTM,1,1
+2024-05-17,LSTM,1,1
+2024-05-21,LSTM,1,1
+2024-05-22,LSTM,1,1
+2024-05-23,LSTM,1,1
+2024-05-24,LSTM,1,1
+2024-05-27,LSTM,1,1
+2024-05-28,LSTM,1,1
+2024-05-29,LSTM,1,1
+2024-05-30,LSTM,1,1
+2024-05-31,LSTM,1,1
+2024-06-03,LSTM,1,1
+2024-06-04,LSTM,1,1
+2024-06-05,LSTM,1,1
+2024-06-06,LSTM,1,1
+2024-06-07,LSTM,1,1
+2024-06-10,LSTM,1,1
+2024-06-11,LSTM,1,1
+2024-06-12,LSTM,1,1
+2024-06-13,LSTM,1,1
+2024-06-14,LSTM,1,1
+2024-06-18,LSTM,1,1
+2024-06-19,LSTM,1,1
+2024-06-20,LSTM,1,1
+2024-06-21,LSTM,1,1
+2024-06-24,LSTM,1,1
+2024-06-25,LSTM,1,1
+2024-06-26,LSTM,1,1
+2024-06-27,LSTM,1,1
+2024-06-28,LSTM,1,1
+2024-07-01,LSTM,1,1
+2024-07-02,LSTM,1,1
+2024-07-03,LSTM,1,1
+2024-07-04,LSTM,1,1
+2024-07-05,LSTM,1,1
+2024-07-08,LSTM,1,1
+2024-07-09,LSTM,1,1
+2024-07-10,LSTM,1,1
+2024-07-11,LSTM,1,1
+2024-07-12,LSTM,1,1
+2024-07-15,LSTM,1,1
+2024-07-16,LSTM,1,1
+2024-07-18,LSTM,1,1
+2024-07-19,LSTM,1,1
+2024-07-22,LSTM,1,1
+2024-07-23,LSTM,1,1
+2024-07-24,LSTM,1,1
+2024-07-25,LSTM,1,1
+2024-07-26,LSTM,1,1
+2024-07-29,LSTM,1,1
+2024-07-30,LSTM,1,1
+2024-07-31,LSTM,1,1
+2024-08-01,LSTM,1,1
+2024-08-02,LSTM,1,1
+2024-08-05,LSTM,1,1
+2024-08-06,LSTM,1,1
+2024-08-07,LSTM,1,1
+2024-08-08,LSTM,1,1
+2024-08-09,LSTM,1,1
+2024-08-12,LSTM,1,1
+2024-08-13,LSTM,1,1
+2024-08-14,LSTM,1,1
+2024-08-16,LSTM,1,1
+2024-08-19,LSTM,1,1
+2024-08-20,LSTM,1,1
+2024-08-21,LSTM,1,1
+2024-08-22,LSTM,1,1
+2024-08-23,LSTM,1,1
+2024-08-26,LSTM,1,1
+2024-08-27,LSTM,1,1
+2024-08-28,LSTM,1,1
+2024-08-29,LSTM,1,1
+2024-08-30,LSTM,1,1
+2024-09-02,LSTM,1,1
+2024-09-03,LSTM,1,1
+2024-09-04,LSTM,1,1
+2024-09-05,LSTM,1,1
+2024-09-06,LSTM,1,1
+2024-09-09,LSTM,1,1
+2024-09-10,LSTM,1,1
+2024-09-11,LSTM,1,1
+2024-09-12,LSTM,1,1
+2024-09-13,LSTM,1,1
+2024-09-16,LSTM,1,1
+2024-09-17,LSTM,1,1
+2024-09-18,LSTM,1,1
+2024-09-19,LSTM,1,1
+2024-09-20,LSTM,1,1
+2024-09-23,LSTM,1,1
+2024-09-24,LSTM,1,1
+2024-09-25,LSTM,1,1
+2024-09-26,LSTM,1,1
+2024-09-27,LSTM,1,1
+2024-09-30,LSTM,1,1
+2024-10-01,LSTM,1,1
+2024-10-03,LSTM,1,1
+2024-10-04,LSTM,0,0
+2024-10-07,LSTM,1,1
+2024-10-08,LSTM,1,1
+2024-10-09,LSTM,1,1
+2024-10-10,LSTM,1,1
+2024-10-11,LSTM,1,1
+2024-10-14,LSTM,1,1
+2024-10-15,LSTM,1,1
+2024-10-16,LSTM,1,1
+2024-10-17,LSTM,1,1
+2024-10-18,LSTM,1,1
+2024-10-21,LSTM,1,1
+2024-10-22,LSTM,1,1
+2024-10-23,LSTM,1,1
+2024-10-24,LSTM,1,1
+2024-10-25,LSTM,1,1
+2024-10-28,LSTM,1,1
+2024-10-29,LSTM,1,1
+2024-10-30,LSTM,1,1
+2024-10-31,LSTM,1,1
+2024-11-01,LSTM,1,1
+2024-11-04,LSTM,1,1
+2024-11-05,LSTM,1,1
+2024-11-06,LSTM,1,1
+2024-11-07,LSTM,1,1
+2024-11-08,LSTM,1,1
+2024-11-11,LSTM,1,1
+2024-11-12,LSTM,1,1
+2024-11-13,LSTM,1,1
+2024-11-14,LSTM,1,1
+2024-11-18,LSTM,1,1
+2024-11-19,LSTM,1,1
+2024-11-21,LSTM,1,1
+2024-11-22,LSTM,1,1
+2024-11-25,LSTM,1,1
+2024-11-26,LSTM,1,1
+2024-11-27,LSTM,1,1
+2024-11-28,LSTM,1,1
+2024-11-29,LSTM,1,1
+2024-12-02,LSTM,1,1
+2024-12-03,LSTM,1,1
+2024-12-04,LSTM,1,1
+2024-12-05,LSTM,1,1
+2024-12-06,LSTM,1,1
+2024-12-09,LSTM,1,1
+2024-12-10,LSTM,1,1
+2024-12-11,LSTM,1,1
+2024-12-12,LSTM,1,1
+2024-12-13,LSTM,1,1
+2024-12-16,LSTM,1,1
+2024-12-17,LSTM,1,1
+2024-12-18,LSTM,1,1
+2024-12-19,LSTM,1,1
+2024-12-20,LSTM,1,1
+2024-12-23,LSTM,1,1
+2024-12-24,LSTM,1,1
+2024-12-26,LSTM,1,1
+2024-12-27,LSTM,1,1
+2024-12-30,LSTM,1,1
+2024-12-31,LSTM,1,1
+2025-01-01,LSTM,1,1
+2025-01-02,LSTM,1,1
+2025-01-03,LSTM,1,1
+2025-01-06,LSTM,1,1
+2025-01-07,LSTM,1,1
+2025-01-08,LSTM,1,1
+2025-01-09,LSTM,1,1
+2025-01-10,LSTM,1,1
+2025-01-13,LSTM,1,1
+2025-01-14,LSTM,1,1
+2025-01-15,LSTM,1,1
+2025-01-16,LSTM,1,1
+2025-01-17,LSTM,1,1
+2025-01-20,LSTM,1,1
+2025-01-21,LSTM,1,1
+2025-01-22,LSTM,1,1
+2025-01-23,LSTM,1,1
+2025-01-24,LSTM,1,1
+2025-01-27,LSTM,1,1
+2025-01-28,LSTM,1,1
+2025-01-29,LSTM,1,1
+2025-01-30,LSTM,1,1
+2025-01-31,LSTM,1,1
+2025-02-01,LSTM,1,1
+2025-02-03,LSTM,1,1
+2025-02-04,LSTM,1,1
+2025-02-05,LSTM,1,1
+2025-02-06,LSTM,1,1
+2025-02-07,LSTM,1,1
+2025-02-10,LSTM,1,1
+2025-02-11,LSTM,1,1
+2025-02-12,LSTM,1,1
+2025-02-13,LSTM,1,1
+2025-02-14,LSTM,1,1
+2025-02-17,LSTM,1,1
+2025-02-18,LSTM,1,1
+2025-02-19,LSTM,1,1
+2025-02-20,LSTM,1,1
+2025-02-21,LSTM,1,1
+2025-02-24,LSTM,1,1
+2025-02-25,LSTM,1,1
+2025-02-27,LSTM,1,1
+2025-02-28,LSTM,1,1
+2025-03-03,LSTM,1,1
+2025-03-04,LSTM,1,1
+2025-03-05,LSTM,1,1
+2025-03-06,LSTM,1,1
+2025-03-07,LSTM,1,1
+2025-03-10,LSTM,1,1
+2025-03-11,LSTM,1,1
+2025-03-12,LSTM,1,1
+2025-03-13,LSTM,1,1
+2025-03-17,LSTM,1,1
+2025-03-18,LSTM,1,1
+2025-03-19,LSTM,1,1
+2025-03-20,LSTM,1,1
+2025-03-21,LSTM,1,1
+2025-03-24,LSTM,1,1
+2025-03-25,LSTM,1,1
+2025-03-26,LSTM,1,1
+2025-03-27,LSTM,1,1
+2025-03-28,LSTM,1,1
+2025-04-01,LSTM,1,1
+2025-04-02,LSTM,1,1
+2025-04-03,LSTM,1,1
+2025-04-04,LSTM,1,1
+2025-04-07,LSTM,1,1
+2025-04-08,LSTM,1,1
+2025-04-09,LSTM,1,1
+2025-04-11,LSTM,1,1
+2025-04-15,LSTM,1,1
+2025-04-16,LSTM,1,1
+2025-04-17,LSTM,1,1
+2025-04-21,LSTM,1,1
+2025-04-22,LSTM,1,1
+2025-04-23,LSTM,1,1
+2025-04-24,LSTM,1,1
+2025-04-25,LSTM,1,1
+2025-04-28,LSTM,1,1
+2025-04-29,LSTM,1,1
+2025-04-30,LSTM,1,1
+2025-05-02,LSTM,1,1
+2025-05-05,LSTM,1,1
+2025-05-06,LSTM,1,1
+2025-05-07,LSTM,1,1
+2025-05-08,LSTM,1,1
+2025-05-09,LSTM,1,1
+2025-05-12,LSTM,1,1
+2025-05-13,LSTM,1,1
+2025-05-14,LSTM,1,1
+2025-05-15,LSTM,1,1
+2025-05-16,LSTM,1,1
+2025-05-19,LSTM,1,1
+2025-05-20,LSTM,1,1
+2025-05-21,LSTM,1,1
+2025-05-22,LSTM,1,1
+2025-05-23,LSTM,1,1
+2025-05-26,LSTM,1,1
+2025-05-27,LSTM,1,1
+2025-05-28,LSTM,1,1
+2025-05-29,LSTM,1,1
+2025-05-30,LSTM,1,1
+2025-06-02,LSTM,1,1
+2025-06-03,LSTM,1,1
+2025-06-04,LSTM,1,1
+2025-06-05,LSTM,1,1
+2025-06-06,LSTM,1,1
+2025-06-09,LSTM,1,1
+2025-06-10,LSTM,1,1
+2025-06-11,LSTM,1,1
+2025-06-12,LSTM,1,1
+2025-06-13,LSTM,1,1
+2025-06-16,LSTM,1,1
+2025-06-17,LSTM,1,1
+2025-06-18,LSTM,1,1
+2025-06-19,LSTM,1,1
+2025-06-20,LSTM,1,1
+2025-06-23,LSTM,1,1
+2025-06-24,LSTM,1,1
+2025-06-25,LSTM,1,1
+2025-06-26,LSTM,1,1
+2025-06-27,LSTM,1,1
+2025-06-30,LSTM,1,1
+2025-07-01,LSTM,1,1
+2025-07-02,LSTM,1,1
+2025-07-03,LSTM,1,1
+2025-07-04,LSTM,1,1
+2025-07-07,LSTM,1,1
+2025-07-08,LSTM,1,1
+2025-07-09,LSTM,1,1
+2025-07-10,LSTM,1,1
+2025-07-11,LSTM,1,1
+2025-07-14,LSTM,1,1
+2025-07-15,LSTM,1,1
+2025-07-16,LSTM,1,1
+2025-07-17,LSTM,1,1
+2025-07-18,LSTM,1,1
+2025-07-21,LSTM,1,1
+2025-07-22,LSTM,1,1
+2025-07-23,LSTM,1,1
+2025-07-24,LSTM,1,1
+2025-07-25,LSTM,1,1
+2025-07-28,LSTM,1,1
+2025-07-29,LSTM,1,1
+2025-07-30,LSTM,1,1
+2025-07-31,LSTM,1,1
+2025-08-01,LSTM,1,1
+2025-08-04,LSTM,1,1
+2025-08-05,LSTM,1,1
+2025-08-06,LSTM,1,1
+2025-08-07,LSTM,1,1
+2025-08-08,LSTM,1,1
+2025-08-11,LSTM,1,1
+2025-08-12,LSTM,1,1
+2025-08-13,LSTM,1,1
+2025-08-14,LSTM,1,1
+2025-08-18,LSTM,1,1
+2025-08-19,LSTM,1,1
+2025-08-20,LSTM,1,1
+2025-08-21,LSTM,1,1
+2025-08-22,LSTM,1,1
+2025-08-25,LSTM,1,1
+2025-08-26,LSTM,1,1
+2025-08-28,LSTM,1,1
+2025-08-29,LSTM,1,1
+2025-09-01,LSTM,1,1
+2025-09-02,LSTM,1,1
+2025-09-03,LSTM,1,1
+2025-09-04,LSTM,1,1
+2025-09-05,LSTM,1,1
+2025-09-08,LSTM,1,1
+2025-09-09,LSTM,1,1
+2025-09-10,LSTM,1,1
+2025-09-11,LSTM,1,1
+2025-09-12,LSTM,1,1
+2025-09-15,LSTM,1,1
+2025-09-16,LSTM,1,1
+2025-09-17,LSTM,1,1
+2025-09-18,LSTM,1,1
+2025-09-19,LSTM,1,1
+2025-09-22,LSTM,1,1
+2025-09-23,LSTM,1,1
+2025-09-24,LSTM,1,1
+2025-09-25,LSTM,1,1
+2025-09-26,LSTM,1,1
+2025-09-29,LSTM,1,1
+2025-09-30,LSTM,1,1
+2025-10-01,LSTM,1,1
+2025-10-03,LSTM,1,1
+2025-10-06,LSTM,1,1
+2025-10-07,LSTM,1,1
+2025-10-08,LSTM,1,1
+2025-10-09,LSTM,1,1
+2025-10-10,LSTM,1,1
+2025-10-13,LSTM,1,1
+2025-10-14,LSTM,1,1
+2025-10-15,LSTM,1,1
+2025-10-16,LSTM,1,1
+2025-10-17,LSTM,1,1
+2025-10-20,LSTM,1,1
+2025-10-21,LSTM,1,1
+2025-10-23,LSTM,1,1
+2025-10-24,LSTM,1,1
+2025-10-27,LSTM,1,1
+2025-10-28,LSTM,1,1
+2025-10-29,LSTM,1,1
+2025-10-30,LSTM,1,1
+2025-10-31,LSTM,1,1
+2025-11-03,LSTM,1,1
+2025-11-04,LSTM,1,1
+2025-11-06,LSTM,1,1
+2025-11-07,LSTM,1,1
+2025-11-10,LSTM,1,1
+2025-11-11,LSTM,1,1
+2025-11-12,LSTM,1,1
+2025-11-13,LSTM,1,1
+2025-11-14,LSTM,1,1
+2025-11-17,LSTM,1,1
+2025-11-18,LSTM,1,1
+2025-11-19,LSTM,1,1
+2025-11-20,LSTM,1,1
+2025-11-21,LSTM,1,1
+2025-11-24,LSTM,1,1
+2025-11-25,LSTM,1,1
+2025-11-26,LSTM,1,1
+2025-11-27,LSTM,1,1
+2025-11-28,LSTM,1,1
+2025-12-01,LSTM,1,1
+2025-12-02,LSTM,1,1
+2025-12-03,LSTM,1,1
+2025-12-04,LSTM,1,1
+2025-12-05,LSTM,1,1
+2025-12-08,LSTM,1,1
+2025-12-09,LSTM,1,1
+2025-12-10,LSTM,1,1
+2025-12-11,LSTM,1,1
+2025-12-12,LSTM,1,1
+2025-12-15,LSTM,1,1
+2025-12-16,LSTM,1,1
+2025-12-17,LSTM,1,1
+2025-12-18,LSTM,1,1
+2025-12-19,LSTM,1,1
+2025-12-22,LSTM,1,1
+2025-12-23,LSTM,1,1
+2025-12-24,LSTM,1,1
+2025-12-26,LSTM,1,1
+2025-12-29,LSTM,1,1
+2025-12-30,LSTM,1,1
+2025-12-31,LSTM,1,1
+2026-01-01,LSTM,1,1
+2026-01-02,LSTM,1,1
+2026-01-05,LSTM,1,1
+2026-01-06,LSTM,1,1
+2026-01-07,LSTM,1,1
+2026-01-08,LSTM,1,1
+2026-01-09,LSTM,1,1
+2026-01-12,LSTM,1,1
+2026-01-13,LSTM,1,1
+2026-01-14,LSTM,1,1
+2026-01-16,LSTM,1,1
+2026-01-19,LSTM,1,1
+2026-01-20,LSTM,1,1
+2026-01-21,LSTM,1,1
+2026-01-22,LSTM,1,1
+2026-01-23,LSTM,1,1
+2026-01-27,LSTM,1,1
+2026-01-28,LSTM,1,1
+2026-01-29,LSTM,1,1
+2026-01-30,LSTM,1,1
+2026-02-02,LSTM,1,1
+2026-02-03,LSTM,1,1
+2026-02-04,LSTM,1,1
+2026-02-05,LSTM,1,1
+2026-02-06,LSTM,1,1
+2026-02-09,LSTM,1,1
+2026-02-10,LSTM,1,1
+2026-02-11,LSTM,1,1
+2026-02-12,LSTM,1,1
+2026-02-13,LSTM,1,1
+2026-02-16,LSTM,1,1
+2026-02-17,LSTM,1,1
+2026-02-18,LSTM,1,1
+2026-02-19,LSTM,1,1
+2026-02-20,LSTM,1,1
+2026-02-23,LSTM,1,1
+2026-02-24,LSTM,1,1
+2026-02-25,LSTM,1,1
+2026-02-26,LSTM,1,1
+2026-02-27,LSTM,1,1
+2026-03-02,LSTM,1,1
+2026-03-04,LSTM,1,1
+2026-03-05,LSTM,1,1
+2026-03-06,LSTM,1,1
+2026-03-09,LSTM,1,1
+2026-03-10,LSTM,1,1
+2026-03-11,LSTM,1,1
+2026-03-12,LSTM,1,1
+2026-03-13,LSTM,1,1
+2026-03-16,LSTM,1,1
+2026-03-17,LSTM,1,1
+2026-03-18,LSTM,1,1
+2026-03-19,LSTM,1,1
+2026-03-20,LSTM,1,1
+2026-03-23,LSTM,1,1
+2026-03-24,LSTM,1,1
+2026-03-25,LSTM,1,1
+2026-03-27,LSTM,1,1
+2026-03-30,LSTM,1,1
+2026-04-01,LSTM,1,1
+2026-04-02,LSTM,1,1
+2026-04-06,LSTM,1,1
+2026-04-07,LSTM,1,1
+2026-04-08,LSTM,1,1
+2026-04-09,LSTM,1,1
+2026-04-10,LSTM,1,1
+2026-04-13,LSTM,1,1
+2026-04-15,LSTM,1,1
+2026-04-16,LSTM,1,1
+2026-04-17,LSTM,1,1
+2026-04-20,LSTM,1,1
+2026-04-21,LSTM,1,1
+2026-04-22,LSTM,1,1
+2026-04-23,LSTM,1,1
+2026-04-24,LSTM,1,1
+2026-04-27,LSTM,1,1
+2026-04-28,LSTM,1,1
+2026-04-29,LSTM,1,1
+2026-04-30,LSTM,1,1
+2026-05-04,LSTM,1,1
+2026-05-05,LSTM,1,1
+2026-05-06,LSTM,1,1
+2026-05-07,LSTM,1,1
+2026-05-08,LSTM,1,1
+2026-05-11,LSTM,1,1
+2026-05-12,LSTM,1,1
+2026-05-13,LSTM,1,1
+2026-05-14,LSTM,1,1
+2026-05-15,LSTM,1,1
+2026-05-18,LSTM,1,1
+2026-05-19,LSTM,1,1
+2026-05-20,LSTM,1,1
+2026-05-21,LSTM,1,1
+2026-05-22,LSTM,1,1
+2026-05-25,LSTM,1,1
+2026-05-26,LSTM,1,1
+2026-05-27,LSTM,1,1
+2026-05-29,LSTM,1,1
+2026-06-01,LSTM,1,1
+2026-06-02,LSTM,1,1
+2026-06-03,LSTM,1,1
+2026-06-04,LSTM,1,1
+2026-06-05,LSTM,1,1
+2026-06-08,LSTM,1,1
+2026-06-09,LSTM,1,1
+2026-06-10,LSTM,1,1
+2026-06-11,LSTM,1,1
+2026-06-12,LSTM,1,1
+2026-06-15,LSTM,1,1
+2026-06-16,LSTM,1,1
+2026-06-17,LSTM,1,1
+2026-06-18,LSTM,1,1
+2026-06-19,LSTM,1,1
+2026-06-22,LSTM,1,1
+2026-06-23,LSTM,1,1
+2026-06-24,LSTM,1,1
+2026-06-25,LSTM,1,1
+2026-06-29,LSTM,1,1
+2026-06-30,LSTM,1,1
+2026-07-01,LSTM,1,1
+2026-07-02,LSTM,1,1
+2026-07-03,LSTM,1,1
+2026-07-06,LSTM,1,1
+2026-07-07,LSTM,1,1
+2026-07-08,LSTM,1,1
+2026-07-09,LSTM,1,1
+2026-07-10,LSTM,1,1
+2026-07-13,LSTM,1,1
+2026-07-14,LSTM,1,1
+2026-07-15,LSTM,1,1
+2026-07-16,LSTM,1,1
+2026-07-17,LSTM,1,1
+2026-07-20,LSTM,1,1
+2026-07-21,LSTM,1,1
+2026-07-22,LSTM,1,1
+2026-07-23,LSTM,1,1
+2026-07-24,LSTM,1,1
+2026-07-27,LSTM,1,1
+2026-07-28,LSTM,1,1
+2026-07-29,LSTM,1,1
+2026-07-30,LSTM,1,1
+2026-07-31,LSTM,1,1
+2026-08-03,LSTM,1,1
+2026-08-04,LSTM,1,1
+2026-08-05,LSTM,1,1
+2026-08-06,LSTM,1,1
+2026-08-07,LSTM,1,1
+2026-08-10,LSTM,1,1
+2026-08-11,LSTM,1,1
+2026-08-12,LSTM,1,1
+2026-08-13,LSTM,1,1
+2026-08-14,LSTM,1,1
+2026-08-17,LSTM,1,1
+2026-08-18,LSTM,1,1
+2026-08-19,LSTM,1,1
+2026-08-20,LSTM,1,1
+2026-08-21,LSTM,1,1
+2026-08-24,LSTM,1,1
+2026-08-25,LSTM,1,1
+2026-08-26,LSTM,1,1
+2026-08-27,LSTM,1,1
+2026-08-28,LSTM,1,1
+2026-08-31,LSTM,1,1
+2026-09-01,LSTM,1,1
+2026-09-02,LSTM,1,1
+2026-09-03,LSTM,1,1
+2026-09-04,LSTM,1,1
+2026-09-07,LSTM,1,1
+2026-09-08,LSTM,1,1
+2026-09-09,LSTM,1,1
+2026-09-10,LSTM,1,1
+2026-09-11,LSTM,1,1
+2026-09-15,LSTM,1,1
+2026-09-16,LSTM,1,1
+2026-09-17,LSTM,1,1
+2026-09-18,LSTM,1,1
+2026-09-21,LSTM,1,1
+2026-09-22,LSTM,1,1
+2026-09-23,LSTM,1,1
+2026-09-24,LSTM,1,1
+2026-09-25,LSTM,1,1
+2026-09-28,LSTM,1,1
+2026-09-29,LSTM,1,1
