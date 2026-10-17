@@ -27,9 +27,9 @@ The models use 12 price-derived features:
 
 The target-aligned experiment predicts whether the return from the next session's open to the following session's open is positive.
 
-\[
+$$\[
 r_t = \frac{O_{t+2}}{O_{t+1}} - 1
-\]
+\]$$
 
 The binary target is 1 when this return is positive and 0 otherwise.
 
