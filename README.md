@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julius-Scissor/Financial-Market-Direction-ML/blob/main/notebooks/01_market_direction_analysis.ipynb)
 # Neural Network-Based Market Direction Classification
 
 **A comparative study of classical machine learning and neural networks for daily NIFTY 50 market-direction prediction.**
